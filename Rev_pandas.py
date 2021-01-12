@@ -1,6 +1,6 @@
 import pandas as pd
 
-# importing data from excek file
+# importing data from excel file
 # Before importing the excel file you need to install
 # openpyxl libaray
 # python3 -m pip install openpyxlf
