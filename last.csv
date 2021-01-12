@@ -1,0 +1,1005 @@
+#	Name	Type 1	Type 2	HP	Attack	Defense	Sp. Atk	Sp. Def	Speed	Generation	Legendary
+1	BulbasaurBulbasaur	GrassGrass	PoisonPoison	90.0	98.0	98.0	130.0	130.0	90.0	2.0	0
+2	IvysaurIvysaur	GrassGrass	PoisonPoison	120.0	124.0	126.0	160.0	160.0	120.0	2.0	0
+3	VenusaurVenusaur	GrassGrass	PoisonPoison	160.0	164.0	166.0	200.0	200.0	160.0	2.0	0
+3	VenusaurVenusaurMega Venusaur	GrassGrass	PoisonPoison	160.0	182.0	206.0	222.0	220.0	160.0	2.0	0
+3	VenusaurMega VenusaurVenusaur	GrassGrass	PoisonPoison	160.0	182.0	206.0	222.0	220.0	160.0	2.0	0
+3	VenusaurMega VenusaurVenusaurMega Venusaur	GrassGrass	PoisonPoison	160.0	200.0	246.0	244.0	240.0	160.0	2.0	0
+4	CharmanderCharmander	FireFire		78.0	104.0	86.0	120.0	100.0	130.0	2.0	0
+5	CharmeleonCharmeleon	FireFire		116.0	128.0	116.0	160.0	130.0	160.0	2.0	0
+6	CharizardMega Charizard YCharizard	FireFire	FlyingFlying	156.0	188.0	156.0	268.0	200.0	200.0	2.0	0
+6	CharizardMega Charizard YCharizardMega Charizard X	FireFire	FlyingDragon	156.0	234.0	189.0	289.0	200.0	200.0	2.0	0
+6	CharizardMega Charizard YCharizardMega Charizard Y	FireFire	FlyingFlying	156.0	208.0	156.0	318.0	230.0	200.0	2.0	0
+6	CharizardMega Charizard XCharizard	FireFire	DragonFlying	156.0	214.0	189.0	239.0	170.0	200.0	2.0	0
+6	CharizardMega Charizard XCharizardMega Charizard X	FireFire	DragonDragon	156.0	260.0	222.0	260.0	170.0	200.0	2.0	0
+6	CharizardMega Charizard XCharizardMega Charizard Y	FireFire	DragonFlying	156.0	234.0	189.0	289.0	200.0	200.0	2.0	0
+6	CharizardCharizard	FireFire	FlyingFlying	156.0	168.0	156.0	218.0	170.0	200.0	2.0	0
+6	CharizardCharizardMega Charizard X	FireFire	FlyingDragon	156.0	214.0	189.0	239.0	170.0	200.0	2.0	0
+6	CharizardCharizardMega Charizard Y	FireFire	FlyingFlying	156.0	188.0	156.0	268.0	200.0	200.0	2.0	0
+7	SquirtleSquirtle	WaterWater		88.0	96.0	130.0	100.0	128.0	86.0	2.0	0
+8	WartortleWartortle	WaterWater		118.0	126.0	160.0	130.0	160.0	116.0	2.0	0
+9	BlastoiseBlastoise	WaterWater		158.0	166.0	200.0	170.0	210.0	156.0	2.0	0
+9	BlastoiseBlastoiseMega Blastoise	WaterWater		158.0	186.0	220.0	220.0	220.0	156.0	2.0	0
+9	BlastoiseMega BlastoiseBlastoise	WaterWater		158.0	186.0	220.0	220.0	220.0	156.0	2.0	0
+9	BlastoiseMega BlastoiseBlastoiseMega Blastoise	WaterWater		158.0	206.0	240.0	270.0	230.0	156.0	2.0	0
+10	CaterpieCaterpie	BugBug		90.0	60.0	70.0	40.0	40.0	90.0	2.0	0
+11	MetapodMetapod	BugBug		100.0	40.0	110.0	50.0	50.0	60.0	2.0	0
+12	ButterfreeButterfree	BugBug	FlyingFlying	120.0	90.0	100.0	180.0	160.0	140.0	2.0	0
+13	WeedleWeedle	BugBug	PoisonPoison	80.0	70.0	60.0	40.0	40.0	100.0	2.0	0
+14	KakunaKakuna	BugBug	PoisonPoison	90.0	50.0	100.0	50.0	50.0	70.0	2.0	0
+15	BeedrillMega BeedrillBeedrill	BugBug	PoisonPoison	130.0	240.0	80.0	60.0	160.0	220.0	2.0	0
+15	BeedrillMega BeedrillBeedrillMega Beedrill	BugBug	PoisonPoison	130.0	300.0	80.0	30.0	160.0	290.0	2.0	0
+15	BeedrillBeedrill	BugBug	PoisonPoison	130.0	180.0	80.0	90.0	160.0	150.0	2.0	0
+15	BeedrillBeedrillMega Beedrill	BugBug	PoisonPoison	130.0	240.0	80.0	60.0	160.0	220.0	2.0	0
+16	PidgeyPidgey	NormalNormal	FlyingFlying	80.0	90.0	80.0	70.0	70.0	112.0	2.0	0
+17	PidgeottoPidgeotto	NormalNormal	FlyingFlying	126.0	120.0	110.0	100.0	100.0	142.0	2.0	0
+18	PidgeotPidgeot	NormalNormal	FlyingFlying	166.0	160.0	150.0	140.0	140.0	202.0	2.0	0
+18	PidgeotPidgeotMega Pidgeot	NormalNormal	FlyingFlying	166.0	160.0	155.0	205.0	150.0	222.0	2.0	0
+18	PidgeotMega PidgeotPidgeot	NormalNormal	FlyingFlying	166.0	160.0	155.0	205.0	150.0	222.0	2.0	0
+18	PidgeotMega PidgeotPidgeotMega Pidgeot	NormalNormal	FlyingFlying	166.0	160.0	160.0	270.0	160.0	242.0	2.0	0
+19	RattataRattata	NormalNormal		60.0	112.0	70.0	50.0	70.0	144.0	2.0	0
+20	RaticateRaticate	NormalNormal		110.0	162.0	120.0	100.0	140.0	194.0	2.0	0
+21	SpearowSpearow	NormalNormal	FlyingFlying	80.0	120.0	60.0	62.0	62.0	140.0	2.0	0
+22	FearowFearow	NormalNormal	FlyingFlying	130.0	180.0	130.0	122.0	122.0	200.0	2.0	0
+23	EkansEkans	PoisonPoison		70.0	120.0	88.0	80.0	108.0	110.0	2.0	0
+24	ArbokArbok	PoisonPoison		120.0	170.0	138.0	130.0	158.0	160.0	2.0	0
+25	PikachuPikachu	ElectricElectric		70.0	110.0	80.0	100.0	100.0	180.0	2.0	0
+26	RaichuRaichu	ElectricElectric		120.0	180.0	110.0	180.0	160.0	220.0	2.0	0
+27	SandshrewSandshrew	GroundGround		100.0	150.0	170.0	40.0	60.0	80.0	2.0	0
+28	SandslashSandslash	GroundGround		150.0	200.0	220.0	90.0	110.0	130.0	2.0	0
+29	Nidoran (Female)Nidoran (Female)	PoisonPoison		110.0	94.0	104.0	80.0	80.0	82.0	2.0	0
+30	NidorinaNidorina	PoisonPoison		140.0	124.0	134.0	110.0	110.0	112.0	2.0	0
+31	NidoqueenNidoqueen	PoisonPoison	GroundGround	180.0	184.0	174.0	150.0	170.0	152.0	2.0	0
+32	Nidoran (Male)Nidoran (Male)	PoisonPoison		92.0	114.0	80.0	80.0	80.0	100.0	2.0	0
+33	NidorinoNidorino	PoisonPoison		122.0	144.0	114.0	110.0	110.0	130.0	2.0	0
+34	NidokingNidoking	PoisonPoison	GroundGround	162.0	204.0	154.0	170.0	150.0	170.0	2.0	0
+35	ClefairyClefairy	FairyFairy		140.0	90.0	96.0	120.0	130.0	70.0	2.0	0
+36	ClefableClefable	FairyFairy		190.0	140.0	146.0	190.0	180.0	120.0	2.0	0
+37	VulpixVulpix	FireFire		76.0	82.0	80.0	100.0	130.0	130.0	2.0	0
+38	NinetalesNinetales	FireFire		146.0	152.0	150.0	162.0	200.0	200.0	2.0	0
+39	JigglypuffJigglypuff	NormalNormal	FairyFairy	230.0	90.0	40.0	90.0	50.0	40.0	2.0	0
+40	WigglytuffWigglytuff	NormalNormal	FairyFairy	280.0	140.0	90.0	170.0	100.0	90.0	2.0	0
+41	ZubatZubat	PoisonPoison	FlyingFlying	80.0	90.0	70.0	60.0	80.0	110.0	2.0	0
+42	GolbatGolbat	PoisonPoison	FlyingFlying	150.0	160.0	140.0	130.0	150.0	180.0	2.0	0
+43	OddishOddish	GrassGrass	PoisonPoison	90.0	100.0	110.0	150.0	130.0	60.0	2.0	0
+44	GloomGloom	GrassGrass	PoisonPoison	120.0	130.0	140.0	170.0	150.0	80.0	2.0	0
+45	VileplumeVileplume	GrassGrass	PoisonPoison	150.0	160.0	170.0	220.0	180.0	100.0	2.0	0
+46	ParasParas	BugBug	GrassGrass	70.0	140.0	110.0	90.0	110.0	50.0	2.0	0
+47	ParasectParasect	BugBug	GrassGrass	120.0	190.0	160.0	120.0	160.0	60.0	2.0	0
+48	VenonatVenonat	BugBug	PoisonPoison	120.0	110.0	100.0	80.0	110.0	90.0	2.0	0
+49	VenomothVenomoth	BugBug	PoisonPoison	140.0	130.0	120.0	180.0	150.0	180.0	2.0	0
+50	DiglettDiglett	GroundGround		20.0	110.0	50.0	70.0	90.0	190.0	2.0	0
+51	DugtrioDugtrio	GroundGround		70.0	160.0	100.0	100.0	140.0	240.0	2.0	0
+52	MeowthMeowth	NormalNormal		80.0	90.0	70.0	80.0	80.0	180.0	2.0	0
+53	PersianPersian	NormalNormal		130.0	140.0	120.0	130.0	130.0	230.0	2.0	0
+54	PsyduckPsyduck	WaterWater		100.0	104.0	96.0	130.0	100.0	110.0	2.0	0
+55	GolduckGolduck	WaterWater		160.0	164.0	156.0	190.0	160.0	170.0	2.0	0
+56	MankeyMankey	FightingFighting		80.0	160.0	70.0	70.0	90.0	140.0	2.0	0
+57	PrimeapePrimeape	FightingFighting		130.0	210.0	120.0	120.0	140.0	190.0	2.0	0
+58	GrowlitheGrowlithe	FireFire		110.0	140.0	90.0	140.0	100.0	120.0	2.0	0
+59	ArcanineArcanine	FireFire		180.0	220.0	160.0	200.0	160.0	190.0	2.0	0
+60	PoliwagPoliwag	WaterWater		80.0	100.0	80.0	80.0	80.0	180.0	2.0	0
+61	PoliwhirlPoliwhirl	WaterWater		130.0	130.0	130.0	100.0	100.0	180.0	2.0	0
+62	PoliwrathPoliwrath	WaterWater	FightingFighting	180.0	190.0	190.0	140.0	180.0	140.0	2.0	0
+63	AbraAbra	PsychicPsychic		50.0	40.0	30.0	210.0	110.0	180.0	2.0	0
+64	KadabraKadabra	PsychicPsychic		80.0	70.0	60.0	240.0	140.0	210.0	2.0	0
+65	AlakazamAlakazam	PsychicPsychic		110.0	100.0	90.0	270.0	190.0	240.0	2.0	0
+65	AlakazamAlakazamMega Alakazam	PsychicPsychic		110.0	100.0	110.0	310.0	190.0	270.0	2.0	0
+65	AlakazamMega AlakazamAlakazam	PsychicPsychic		110.0	100.0	110.0	310.0	190.0	270.0	2.0	0
+65	AlakazamMega AlakazamAlakazamMega Alakazam	PsychicPsychic		110.0	100.0	130.0	350.0	190.0	300.0	2.0	0
+66	MachopMachop	FightingFighting		140.0	160.0	100.0	70.0	70.0	70.0	2.0	0
+67	MachokeMachoke	FightingFighting		160.0	200.0	140.0	100.0	120.0	90.0	2.0	0
+68	MachampMachamp	FightingFighting		180.0	260.0	160.0	130.0	170.0	110.0	2.0	0
+69	BellsproutBellsprout	GrassGrass	PoisonPoison	100.0	150.0	70.0	140.0	60.0	80.0	2.0	0
+70	WeepinbellWeepinbell	GrassGrass	PoisonPoison	130.0	180.0	100.0	170.0	90.0	110.0	2.0	0
+71	VictreebelVictreebel	GrassGrass	PoisonPoison	160.0	210.0	130.0	200.0	140.0	140.0	2.0	0
+72	TentacoolTentacool	WaterWater	PoisonPoison	80.0	80.0	70.0	100.0	200.0	140.0	2.0	0
+73	TentacruelTentacruel	WaterWater	PoisonPoison	160.0	140.0	130.0	160.0	240.0	200.0	2.0	0
+74	GeodudeGeodude	RockRock	GroundGround	80.0	160.0	200.0	60.0	60.0	40.0	2.0	0
+75	GravelerGraveler	RockRock	GroundGround	110.0	190.0	230.0	90.0	90.0	70.0	2.0	0
+76	GolemGolem	RockRock	GroundGround	160.0	240.0	260.0	110.0	130.0	90.0	2.0	0
+77	PonytaPonyta	FireFire		100.0	170.0	110.0	130.0	130.0	180.0	2.0	0
+78	RapidashRapidash	FireFire		130.0	200.0	140.0	160.0	160.0	210.0	2.0	0
+79	SlowpokeSlowpoke	WaterWater	PsychicPsychic	180.0	130.0	130.0	80.0	80.0	30.0	2.0	0
+80	SlowbroMega SlowbroSlowbro	WaterWater	PsychicPsychic	190.0	150.0	290.0	230.0	160.0	60.0	2.0	0
+80	SlowbroMega SlowbroSlowbroMega Slowbro	WaterWater	PsychicPsychic	190.0	150.0	360.0	260.0	160.0	60.0	2.0	0
+80	SlowbroSlowbro	WaterWater	PsychicPsychic	190.0	150.0	220.0	200.0	160.0	60.0	2.0	0
+80	SlowbroSlowbroMega Slowbro	WaterWater	PsychicPsychic	190.0	150.0	290.0	230.0	160.0	60.0	2.0	0
+81	MagnemiteMagnemite	ElectricElectric	SteelSteel	50.0	70.0	140.0	190.0	110.0	90.0	2.0	0
+82	MagnetonMagneton	ElectricElectric	SteelSteel	100.0	120.0	190.0	240.0	140.0	140.0	2.0	0
+83	Farfetch'dFarfetch'd	NormalNormal	FlyingFlying	104.0	130.0	110.0	116.0	124.0	120.0	2.0	0
+84	DoduoDoduo	NormalNormal	FlyingFlying	70.0	170.0	90.0	70.0	70.0	150.0	2.0	0
+85	DodrioDodrio	NormalNormal	FlyingFlying	120.0	220.0	140.0	120.0	120.0	200.0	2.0	0
+86	SeelSeel	WaterWater		130.0	90.0	110.0	90.0	140.0	90.0	2.0	0
+87	DewgongDewgong	WaterWater	IceIce	180.0	140.0	160.0	140.0	190.0	140.0	2.0	0
+88	GrimerGrimer	PoisonPoison		160.0	160.0	100.0	80.0	100.0	50.0	2.0	0
+89	MukMuk	PoisonPoison		210.0	210.0	150.0	130.0	200.0	100.0	2.0	0
+90	ShellderShellder	WaterWater		60.0	130.0	200.0	90.0	50.0	80.0	2.0	0
+91	CloysterCloyster	WaterWater	IceIce	100.0	190.0	360.0	170.0	90.0	140.0	2.0	0
+92	GastlyGastly	GhostGhost	PoisonPoison	60.0	70.0	60.0	200.0	70.0	160.0	2.0	0
+93	HaunterHaunter	GhostGhost	PoisonPoison	90.0	100.0	90.0	230.0	110.0	190.0	2.0	0
+94	GengarGengar	GhostGhost	PoisonPoison	120.0	130.0	120.0	260.0	150.0	220.0	2.0	0
+94	GengarGengarMega Gengar	GhostGhost	PoisonPoison	120.0	130.0	140.0	300.0	170.0	240.0	2.0	0
+94	GengarMega GengarGengar	GhostGhost	PoisonPoison	120.0	130.0	140.0	300.0	170.0	240.0	2.0	0
+94	GengarMega GengarGengarMega Gengar	GhostGhost	PoisonPoison	120.0	130.0	160.0	340.0	190.0	260.0	2.0	0
+95	OnixOnix	RockRock	GroundGround	70.0	90.0	320.0	60.0	90.0	140.0	2.0	0
+96	DrowzeeDrowzee	PsychicPsychic		120.0	96.0	90.0	86.0	180.0	84.0	2.0	0
+97	HypnoHypno	PsychicPsychic		170.0	146.0	140.0	146.0	230.0	134.0	2.0	0
+98	KrabbyKrabby	WaterWater		60.0	210.0	180.0	50.0	50.0	100.0	2.0	0
+99	KinglerKingler	WaterWater		110.0	260.0	230.0	100.0	100.0	150.0	2.0	0
+100	VoltorbVoltorb	ElectricElectric		80.0	60.0	100.0	110.0	110.0	200.0	2.0	0
+101	ElectrodeElectrode	ElectricElectric		120.0	100.0	140.0	160.0	160.0	280.0	2.0	0
+102	ExeggcuteExeggcute	GrassGrass	PsychicPsychic	120.0	80.0	160.0	120.0	90.0	80.0	2.0	0
+103	ExeggutorExeggutor	GrassGrass	PsychicPsychic	190.0	190.0	170.0	250.0	130.0	110.0	2.0	0
+104	CuboneCubone	GroundGround		100.0	100.0	190.0	80.0	100.0	70.0	2.0	0
+105	MarowakMarowak	GroundGround		120.0	160.0	220.0	100.0	160.0	90.0	2.0	0
+106	HitmonleeHitmonlee	FightingFighting		100.0	240.0	106.0	70.0	220.0	174.0	2.0	0
+107	HitmonchanHitmonchan	FightingFighting		100.0	210.0	158.0	70.0	220.0	152.0	2.0	0
+108	LickitungLickitung	NormalNormal		180.0	110.0	150.0	120.0	150.0	60.0	2.0	0
+109	KoffingKoffing	PoisonPoison		80.0	130.0	190.0	120.0	90.0	70.0	2.0	0
+110	WeezingWeezing	PoisonPoison		130.0	180.0	240.0	170.0	140.0	120.0	2.0	0
+111	RhyhornRhyhorn	GroundGround	RockRock	160.0	170.0	190.0	60.0	60.0	50.0	2.0	0
+112	RhydonRhydon	GroundGround	RockRock	210.0	260.0	240.0	90.0	90.0	80.0	2.0	0
+113	ChanseyChansey	NormalNormal		500.0	10.0	10.0	70.0	210.0	100.0	2.0	0
+114	TangelaTangela	GrassGrass		130.0	110.0	230.0	200.0	80.0	120.0	2.0	0
+115	KangaskhanMega KangaskhanKangaskhan	NormalNormal		210.0	220.0	180.0	100.0	180.0	190.0	2.0	0
+115	KangaskhanMega KangaskhanKangaskhanMega Kangaskhan	NormalNormal		210.0	250.0	200.0	120.0	200.0	200.0	2.0	0
+115	KangaskhanKangaskhan	NormalNormal		210.0	190.0	160.0	80.0	160.0	180.0	2.0	0
+115	KangaskhanKangaskhanMega Kangaskhan	NormalNormal		210.0	220.0	180.0	100.0	180.0	190.0	2.0	0
+116	HorseaHorsea	WaterWater		60.0	80.0	140.0	140.0	50.0	120.0	2.0	0
+117	SeadraSeadra	WaterWater		110.0	130.0	190.0	190.0	90.0	170.0	2.0	0
+118	GoldeenGoldeen	WaterWater		90.0	134.0	120.0	70.0	100.0	126.0	2.0	0
+119	SeakingSeaking	WaterWater		160.0	184.0	130.0	130.0	160.0	136.0	2.0	0
+120	StaryuStaryu	WaterWater		60.0	90.0	110.0	140.0	110.0	170.0	2.0	0
+121	StarmieStarmie	WaterWater	PsychicPsychic	120.0	150.0	170.0	200.0	170.0	230.0	2.0	0
+122	Mr. MimeMr. Mime	PsychicPsychic	FairyFairy	80.0	90.0	130.0	200.0	240.0	180.0	2.0	0
+123	ScytherScyther	BugBug	FlyingFlying	140.0	220.0	160.0	110.0	160.0	210.0	2.0	0
+124	JynxJynx	IceIce	PsychicPsychic	130.0	100.0	70.0	230.0	190.0	190.0	2.0	0
+125	ElectabuzzElectabuzz	ElectricElectric		130.0	166.0	114.0	190.0	170.0	210.0	2.0	0
+126	MagmarMagmar	FireFire		130.0	190.0	114.0	200.0	170.0	186.0	2.0	0
+127	PinsirPinsir	BugBug		130.0	250.0	200.0	110.0	140.0	170.0	2.0	0
+127	PinsirPinsirMega Pinsir	BugBug		130.0	280.0	220.0	120.0	160.0	190.0	2.0	0
+127	PinsirMega PinsirPinsir	BugBug		130.0	280.0	220.0	120.0	160.0	190.0	2.0	0
+127	PinsirMega PinsirPinsirMega Pinsir	BugBug	FlyingFlying	130.0	310.0	240.0	130.0	180.0	210.0	2.0	0
+128	TaurosTauros	NormalNormal		150.0	200.0	190.0	80.0	140.0	220.0	2.0	0
+129	MagikarpMagikarp	WaterWater		40.0	20.0	110.0	30.0	40.0	160.0	2.0	0
+130	GyaradosGyarados	WaterWater	FlyingFlying	190.0	250.0	158.0	120.0	200.0	162.0	2.0	0
+130	GyaradosGyaradosMega Gyarados	WaterWater	FlyingDark	190.0	280.0	188.0	130.0	230.0	162.0	2.0	0
+130	GyaradosMega GyaradosGyarados	WaterWater	DarkFlying	190.0	280.0	188.0	130.0	230.0	162.0	2.0	0
+130	GyaradosMega GyaradosGyaradosMega Gyarados	WaterWater	DarkDark	190.0	310.0	218.0	140.0	260.0	162.0	2.0	0
+131	LaprasLapras	WaterWater	IceIce	260.0	170.0	160.0	170.0	190.0	120.0	2.0	0
+132	DittoDitto	NormalNormal		96.0	96.0	96.0	96.0	96.0	96.0	2.0	0
+133	EeveeEevee	NormalNormal		110.0	110.0	100.0	90.0	130.0	110.0	2.0	0
+134	VaporeonVaporeon	WaterWater		260.0	130.0	120.0	220.0	190.0	130.0	2.0	0
+135	JolteonJolteon	ElectricElectric		130.0	130.0	120.0	220.0	190.0	260.0	2.0	0
+136	FlareonFlareon	FireFire		130.0	260.0	120.0	190.0	220.0	130.0	2.0	0
+137	PorygonPorygon	NormalNormal		130.0	120.0	140.0	170.0	150.0	80.0	2.0	0
+138	OmanyteOmanyte	RockRock	WaterWater	70.0	80.0	200.0	180.0	110.0	70.0	2.0	0
+139	OmastarOmastar	RockRock	WaterWater	140.0	120.0	250.0	230.0	140.0	110.0	2.0	0
+140	KabutoKabuto	RockRock	WaterWater	60.0	160.0	180.0	110.0	90.0	110.0	2.0	0
+141	KabutopsKabutops	RockRock	WaterWater	120.0	230.0	210.0	130.0	140.0	160.0	2.0	0
+142	AerodactylMega AerodactylAerodactyl	RockRock	FlyingFlying	160.0	240.0	150.0	130.0	170.0	280.0	2.0	0
+142	AerodactylMega AerodactylAerodactylMega Aerodactyl	RockRock	FlyingFlying	160.0	270.0	170.0	140.0	190.0	300.0	2.0	0
+142	AerodactylAerodactyl	RockRock	FlyingFlying	160.0	210.0	130.0	120.0	150.0	260.0	2.0	0
+142	AerodactylAerodactylMega Aerodactyl	RockRock	FlyingFlying	160.0	240.0	150.0	130.0	170.0	280.0	2.0	0
+143	SnorlaxSnorlax	NormalNormal		320.0	220.0	130.0	130.0	220.0	60.0	2.0	0
+144	ArticunoArticuno	IceIce	FlyingFlying	180.0	170.0	200.0	190.0	250.0	170.0	2.0	2
+145	ZapdosZapdos	ElectricElectric	FlyingFlying	180.0	180.0	170.0	250.0	180.0	200.0	2.0	2
+146	MoltresMoltres	FireFire	FlyingFlying	180.0	200.0	180.0	250.0	170.0	180.0	2.0	2
+147	DratiniDratini	DragonDragon		82.0	128.0	90.0	100.0	100.0	100.0	2.0	0
+148	DragonairDragonair	DragonDragon		122.0	168.0	130.0	140.0	140.0	140.0	2.0	0
+149	DragoniteDragonite	DragonDragon	FlyingFlying	182.0	268.0	190.0	200.0	200.0	160.0	2.0	0
+150	MewtwoMega Mewtwo XMewtwo	PsychicPsychic		212.0	300.0	190.0	308.0	190.0	260.0	2.0	2
+150	MewtwoMega Mewtwo XMewtwoMega Mewtwo X	PsychicPsychic	FightingFighting	212.0	380.0	200.0	308.0	200.0	260.0	2.0	2
+150	MewtwoMega Mewtwo XMewtwoMega Mewtwo Y	PsychicPsychic		212.0	340.0	170.0	348.0	220.0	270.0	2.0	2
+150	MewtwoMewtwo	PsychicPsychic		212.0	220.0	180.0	308.0	180.0	260.0	2.0	2
+150	MewtwoMewtwoMega Mewtwo X	PsychicPsychic		212.0	300.0	190.0	308.0	190.0	260.0	2.0	2
+150	MewtwoMewtwoMega Mewtwo Y	PsychicPsychic		212.0	260.0	160.0	348.0	210.0	270.0	2.0	2
+150	MewtwoMega Mewtwo YMewtwo	PsychicPsychic		212.0	260.0	160.0	348.0	210.0	270.0	2.0	2
+150	MewtwoMega Mewtwo YMewtwoMega Mewtwo X	PsychicPsychic		212.0	340.0	170.0	348.0	220.0	270.0	2.0	2
+150	MewtwoMega Mewtwo YMewtwoMega Mewtwo Y	PsychicPsychic		212.0	300.0	140.0	388.0	240.0	280.0	2.0	2
+151	MewMew	PsychicPsychic		200.0	200.0	200.0	200.0	200.0	200.0	2.0	0
+152	ChikoritaChikorita	GrassGrass		90.0	98.0	130.0	98.0	130.0	90.0	4.0	0
+153	BayleefBayleef	GrassGrass		120.0	124.0	160.0	126.0	160.0	120.0	4.0	0
+154	MeganiumMeganium	GrassGrass		160.0	164.0	200.0	166.0	200.0	160.0	4.0	0
+155	CyndaquilCyndaquil	FireFire		78.0	104.0	86.0	120.0	100.0	130.0	4.0	0
+156	QuilavaQuilava	FireFire		116.0	128.0	116.0	160.0	130.0	160.0	4.0	0
+157	TyphlosionTyphlosion	FireFire		156.0	168.0	156.0	218.0	170.0	200.0	4.0	0
+158	TotodileTotodile	WaterWater		100.0	130.0	128.0	88.0	96.0	86.0	4.0	0
+159	CroconawCroconaw	WaterWater		130.0	160.0	160.0	118.0	126.0	116.0	4.0	0
+160	FeraligatrFeraligatr	WaterWater		170.0	210.0	200.0	158.0	166.0	156.0	4.0	0
+161	SentretSentret	NormalNormal		70.0	92.0	68.0	70.0	90.0	40.0	4.0	0
+162	FurretFurret	NormalNormal		170.0	152.0	128.0	90.0	110.0	180.0	4.0	0
+163	HoothootHoothoot	NormalNormal	FlyingFlying	120.0	60.0	60.0	72.0	112.0	100.0	4.0	0
+164	NoctowlNoctowl	NormalNormal	FlyingFlying	200.0	100.0	100.0	152.0	192.0	140.0	4.0	0
+165	LedybaLedyba	BugBug	FlyingFlying	80.0	40.0	60.0	80.0	160.0	110.0	4.0	0
+166	LedianLedian	BugBug	FlyingFlying	110.0	70.0	100.0	110.0	220.0	170.0	4.0	0
+167	SpinarakSpinarak	BugBug	PoisonPoison	80.0	120.0	80.0	80.0	80.0	60.0	4.0	0
+168	AriadosAriados	BugBug	PoisonPoison	140.0	180.0	140.0	120.0	120.0	80.0	4.0	0
+169	CrobatCrobat	PoisonPoison	FlyingFlying	170.0	180.0	160.0	140.0	160.0	260.0	4.0	0
+170											
+171	LanturnLanturn	WaterWater	ElectricElectric	250.0	116.0	116.0	152.0	152.0	134.0	4.0	0
+172	PichuPichu	ElectricElectric		40.0	80.0	30.0	70.0	70.0	120.0	4.0	0
+173	CleffaCleffa	FairyFairy		100.0	50.0	56.0	90.0	110.0	30.0	4.0	0
+174	IgglybuffIgglybuff	NormalNormal	FairyFairy	180.0	60.0	30.0	80.0	40.0	30.0	4.0	0
+175	TogepiTogepi	FairyFairy		70.0	40.0	130.0	80.0	130.0	40.0	4.0	0
+176	TogeticTogetic	FairyFairy	FlyingFlying	110.0	80.0	170.0	160.0	210.0	80.0	4.0	0
+177	NatuNatu	PsychicPsychic	FlyingFlying	80.0	100.0	90.0	140.0	90.0	140.0	4.0	0
+178	XatuXatu	PsychicPsychic	FlyingFlying	130.0	150.0	140.0	190.0	140.0	190.0	4.0	0
+179	MareepMareep	ElectricElectric		110.0	80.0	80.0	130.0	90.0	70.0	4.0	0
+180	FlaaffyFlaaffy	ElectricElectric		140.0	110.0	110.0	160.0	120.0	90.0	4.0	0
+181	AmpharosMega AmpharosAmpharos	ElectricElectric		180.0	170.0	190.0	280.0	200.0	100.0	4.0	0
+181	AmpharosMega AmpharosAmpharosMega Ampharos	ElectricElectric	DragonDragon	180.0	190.0	210.0	330.0	220.0	90.0	4.0	0
+181	AmpharosAmpharos	ElectricElectric		180.0	150.0	170.0	230.0	180.0	110.0	4.0	0
+181	AmpharosAmpharosMega Ampharos	ElectricElectric		180.0	170.0	190.0	280.0	200.0	100.0	4.0	0
+182	BellossomBellossom	GrassGrass		150.0	160.0	190.0	180.0	200.0	100.0	4.0	0
+183	MarillMarill	WaterWater	FairyFairy	140.0	40.0	100.0	40.0	100.0	80.0	4.0	0
+184	AzumarillAzumarill	WaterWater	FairyFairy	200.0	100.0	160.0	120.0	160.0	100.0	4.0	0
+185	SudowoodoSudowoodo	RockRock		140.0	200.0	230.0	60.0	130.0	60.0	4.0	0
+186	PolitoedPolitoed	WaterWater		180.0	150.0	150.0	180.0	200.0	140.0	4.0	0
+187	HoppipHoppip	GrassGrass	FlyingFlying	70.0	70.0	80.0	70.0	110.0	100.0	4.0	0
+188	SkiploomSkiploom	GrassGrass	FlyingFlying	110.0	90.0	100.0	90.0	130.0	160.0	4.0	0
+189	JumpluffJumpluff	GrassGrass	FlyingFlying	150.0	110.0	140.0	110.0	190.0	220.0	4.0	0
+190	AipomAipom	NormalNormal		110.0	140.0	110.0	80.0	110.0	170.0	4.0	0
+191	SunkernSunkern	GrassGrass		60.0	60.0	60.0	60.0	60.0	60.0	4.0	0
+192	SunfloraSunflora	GrassGrass		150.0	150.0	110.0	210.0	170.0	60.0	4.0	0
+193	YanmaYanma	BugBug	FlyingFlying	130.0	130.0	90.0	150.0	90.0	190.0	4.0	0
+194	WooperWooper	WaterWater	GroundGround	110.0	90.0	90.0	50.0	50.0	30.0	4.0	0
+195	QuagsireQuagsire	WaterWater	GroundGround	190.0	170.0	170.0	130.0	130.0	70.0	4.0	0
+196	EspeonEspeon	PsychicPsychic		130.0	130.0	120.0	260.0	190.0	220.0	4.0	0
+197	UmbreonUmbreon	DarkDark		190.0	130.0	220.0	120.0	260.0	130.0	4.0	0
+198	MurkrowMurkrow	DarkDark	FlyingFlying	120.0	170.0	84.0	170.0	84.0	182.0	4.0	0
+199	SlowkingSlowking	WaterWater	PsychicPsychic	190.0	150.0	160.0	200.0	220.0	60.0	4.0	0
+200	MisdreavusMisdreavus	GhostGhost		120.0	120.0	120.0	170.0	170.0	170.0	4.0	0
+201	UnownUnown	PsychicPsychic		96.0	144.0	96.0	144.0	96.0	96.0	4.0	0
+202	WobbuffetWobbuffet	PsychicPsychic		380.0	66.0	116.0	66.0	116.0	66.0	4.0	0
+203	GirafarigGirafarig	NormalNormal	PsychicPsychic	140.0	160.0	130.0	180.0	130.0	170.0	4.0	0
+204	PinecoPineco	BugBug		100.0	130.0	180.0	70.0	70.0	30.0	4.0	0
+205	ForretressForretress	BugBug	SteelSteel	150.0	180.0	280.0	120.0	120.0	80.0	4.0	0
+206	DunsparceDunsparce	NormalNormal		200.0	140.0	140.0	130.0	130.0	90.0	4.0	0
+207	GligarGligar	GroundGround	FlyingFlying	130.0	150.0	210.0	70.0	130.0	170.0	4.0	0
+208	SteelixMega SteelixSteelix	SteelSteel	GroundGround	150.0	210.0	430.0	110.0	160.0	60.0	4.0	0
+208	SteelixMega SteelixSteelixMega Steelix	SteelSteel	GroundGround	150.0	250.0	460.0	110.0	190.0	60.0	4.0	0
+208	SteelixSteelix	SteelSteel	GroundGround	150.0	170.0	400.0	110.0	130.0	60.0	4.0	0
+208	SteelixSteelixMega Steelix	SteelSteel	GroundGround	150.0	210.0	430.0	110.0	160.0	60.0	4.0	0
+209	SnubbullSnubbull	FairyFairy		120.0	160.0	100.0	80.0	80.0	60.0	4.0	0
+210	GranbullGranbull	FairyFairy		180.0	240.0	150.0	120.0	120.0	90.0	4.0	0
+211	QwilfishQwilfish	WaterWater	PoisonPoison	130.0	190.0	150.0	110.0	110.0	170.0	4.0	0
+212	ScizorMega ScizorScizor	BugBug	SteelSteel	140.0	280.0	240.0	120.0	180.0	140.0	4.0	0
+212	ScizorMega ScizorScizorMega Scizor	BugBug	SteelSteel	140.0	300.0	280.0	130.0	200.0	150.0	4.0	0
+212	ScizorScizor	BugBug	SteelSteel	140.0	260.0	200.0	110.0	160.0	130.0	4.0	0
+212	ScizorScizorMega Scizor	BugBug	SteelSteel	140.0	280.0	240.0	120.0	180.0	140.0	4.0	0
+213	ShuckleShuckle	BugBug	RockRock	40.0	20.0	460.0	20.0	460.0	10.0	4.0	0
+214	HeracrossMega HeracrossHeracross	BugBug	FightingFighting	160.0	310.0	190.0	80.0	200.0	160.0	4.0	0
+214	HeracrossMega HeracrossHeracrossMega Heracross	BugBug	FightingFighting	160.0	370.0	230.0	80.0	210.0	150.0	4.0	0
+214	HeracrossHeracross	BugBug	FightingFighting	160.0	250.0	150.0	80.0	190.0	170.0	4.0	0
+214	HeracrossHeracrossMega Heracross	BugBug	FightingFighting	160.0	310.0	190.0	80.0	200.0	160.0	4.0	0
+215	SneaselSneasel	DarkDark	IceIce	110.0	190.0	110.0	70.0	150.0	230.0	4.0	0
+216	TeddiursaTeddiursa	NormalNormal		120.0	160.0	100.0	100.0	100.0	80.0	4.0	0
+217	UrsaringUrsaring	NormalNormal		180.0	260.0	150.0	150.0	150.0	110.0	4.0	0
+218	SlugmaSlugma	FireFire		80.0	80.0	80.0	140.0	80.0	40.0	4.0	0
+219	MagcargoMagcargo	FireFire	RockRock	100.0	100.0	240.0	160.0	160.0	60.0	4.0	0
+220	SwinubSwinub	IceIce	GroundGround	100.0	100.0	80.0	60.0	60.0	100.0	4.0	0
+221	PiloswinePiloswine	IceIce	GroundGround	200.0	200.0	160.0	120.0	120.0	100.0	4.0	0
+222	CorsolaCorsola	WaterWater	RockRock	110.0	110.0	170.0	130.0	170.0	70.0	4.0	0
+223	RemoraidRemoraid	WaterWater		70.0	130.0	70.0	130.0	70.0	130.0	4.0	0
+224	OctilleryOctillery	WaterWater		150.0	210.0	150.0	210.0	150.0	90.0	4.0	0
+225	DelibirdDelibird	IceIce	FlyingFlying	90.0	110.0	90.0	130.0	90.0	150.0	4.0	0
+226	MantineMantine	WaterWater	FlyingFlying	130.0	80.0	140.0	160.0	280.0	140.0	4.0	0
+227	SkarmorySkarmory	SteelSteel	FlyingFlying	130.0	160.0	280.0	80.0	140.0	140.0	4.0	0
+228	HoundourHoundour	DarkDark	FireFire	90.0	120.0	60.0	160.0	100.0	130.0	4.0	0
+229	HoundoomMega HoundoomHoundoom	DarkDark	FireFire	150.0	180.0	140.0	250.0	170.0	210.0	4.0	0
+229	HoundoomMega HoundoomHoundoomMega Houndoom	DarkDark	FireFire	150.0	180.0	180.0	280.0	180.0	230.0	4.0	0
+229	HoundoomHoundoom	DarkDark	FireFire	150.0	180.0	100.0	220.0	160.0	190.0	4.0	0
+229	HoundoomHoundoomMega Houndoom	DarkDark	FireFire	150.0	180.0	140.0	250.0	170.0	210.0	4.0	0
+230	KingdraKingdra	WaterWater	DragonDragon	150.0	190.0	190.0	190.0	190.0	170.0	4.0	0
+231	PhanpyPhanpy	GroundGround		180.0	120.0	120.0	80.0	80.0	80.0	4.0	0
+232	DonphanDonphan	GroundGround		180.0	240.0	240.0	120.0	120.0	100.0	4.0	0
+233	Porygon2Porygon2	NormalNormal		170.0	160.0	180.0	210.0	190.0	120.0	4.0	0
+234	StantlerStantler	NormalNormal		146.0	190.0	124.0	170.0	130.0	170.0	4.0	0
+235	SmeargleSmeargle	NormalNormal		110.0	40.0	70.0	40.0	90.0	150.0	4.0	0
+236	TyrogueTyrogue	FightingFighting		70.0	70.0	70.0	70.0	70.0	70.0	4.0	0
+237	HitmontopHitmontop	FightingFighting		100.0	190.0	190.0	70.0	220.0	140.0	4.0	0
+238	SmoochumSmoochum	IceIce	PsychicPsychic	90.0	60.0	30.0	170.0	130.0	130.0	4.0	0
+239	ElekidElekid	ElectricElectric		90.0	126.0	74.0	130.0	110.0	190.0	4.0	0
+240	MagbyMagby	FireFire		90.0	150.0	74.0	140.0	110.0	166.0	4.0	0
+241	MiltankMiltank	NormalNormal		190.0	160.0	210.0	80.0	140.0	200.0	4.0	0
+242	BlisseyBlissey	NormalNormal		510.0	20.0	20.0	150.0	270.0	110.0	4.0	0
+243	RaikouRaikou	ElectricElectric		180.0	170.0	150.0	230.0	200.0	230.0	4.0	2
+244	EnteiEntei	FireFire		230.0	230.0	170.0	180.0	150.0	200.0	4.0	2
+245	SuicuneSuicune	WaterWater		200.0	150.0	230.0	180.0	230.0	170.0	4.0	2
+246	LarvitarLarvitar	RockRock	GroundGround	100.0	128.0	100.0	90.0	100.0	82.0	4.0	0
+247	PupitarPupitar	RockRock	GroundGround	140.0	168.0	140.0	130.0	140.0	102.0	4.0	0
+248	TyranitarMega TyranitarTyranitar	RockRock	DarkDark	200.0	298.0	260.0	190.0	220.0	132.0	4.0	0
+248	TyranitarMega TyranitarTyranitarMega Tyranitar	RockRock	DarkDark	200.0	328.0	300.0	190.0	240.0	142.0	4.0	0
+248	TyranitarTyranitar	RockRock	DarkDark	200.0	268.0	220.0	190.0	200.0	122.0	4.0	0
+248	TyranitarTyranitarMega Tyranitar	RockRock	DarkDark	200.0	298.0	260.0	190.0	220.0	132.0	4.0	0
+249	LugiaLugia	PsychicPsychic	FlyingFlying	212.0	180.0	260.0	180.0	308.0	220.0	4.0	2
+250	Ho-ohHo-oh	FireFire	FlyingFlying	212.0	260.0	180.0	220.0	308.0	180.0	4.0	2
+251	CelebiCelebi	PsychicPsychic	GrassGrass	200.0	200.0	200.0	200.0	200.0	200.0	4.0	0
+252	TreeckoTreecko	GrassGrass		80.0	90.0	70.0	130.0	110.0	140.0	6.0	0
+253	GrovyleGrovyle	GrassGrass		100.0	130.0	90.0	170.0	130.0	190.0	6.0	0
+254	SceptileSceptile	GrassGrass		140.0	170.0	130.0	210.0	170.0	240.0	6.0	0
+254	SceptileSceptileMega Sceptile	GrassGrass		140.0	195.0	140.0	250.0	170.0	265.0	6.0	0
+254	SceptileMega SceptileSceptile	GrassGrass		140.0	195.0	140.0	250.0	170.0	265.0	6.0	0
+254	SceptileMega SceptileSceptileMega Sceptile	GrassGrass	DragonDragon	140.0	220.0	150.0	290.0	170.0	290.0	6.0	0
+255	TorchicTorchic	FireFire		90.0	120.0	80.0	140.0	100.0	90.0	6.0	0
+256	CombuskenCombusken	FireFire	FightingFighting	120.0	170.0	120.0	170.0	120.0	110.0	6.0	0
+257	BlazikenMega BlazikenBlaziken	FireFire	FightingFighting	160.0	280.0	150.0	240.0	150.0	180.0	6.0	0
+257	BlazikenMega BlazikenBlazikenMega Blaziken	FireFire	FightingFighting	160.0	320.0	160.0	260.0	160.0	200.0	6.0	0
+257	BlazikenBlaziken	FireFire	FightingFighting	160.0	240.0	140.0	220.0	140.0	160.0	6.0	0
+257	BlazikenBlazikenMega Blaziken	FireFire	FightingFighting	160.0	280.0	150.0	240.0	150.0	180.0	6.0	0
+258	MudkipMudkip	WaterWater		100.0	140.0	100.0	100.0	100.0	80.0	6.0	0
+259	MarshtompMarshtomp	WaterWater	GroundGround	140.0	170.0	140.0	120.0	140.0	100.0	6.0	0
+260	SwampertMega SwampertSwampert	WaterWater	GroundGround	200.0	260.0	200.0	180.0	200.0	130.0	6.0	0
+260	SwampertMega SwampertSwampertMega Swampert	WaterWater	GroundGround	200.0	300.0	220.0	190.0	220.0	140.0	6.0	0
+260	SwampertSwampert	WaterWater	GroundGround	200.0	220.0	180.0	170.0	180.0	120.0	6.0	0
+260	SwampertSwampertMega Swampert	WaterWater	GroundGround	200.0	260.0	200.0	180.0	200.0	130.0	6.0	0
+261	PoochyenaPoochyena	DarkDark		70.0	110.0	70.0	60.0	60.0	70.0	6.0	0
+262	MightyenaMightyena	DarkDark		140.0	180.0	140.0	120.0	120.0	140.0	6.0	0
+263	ZigzagoonZigzagoon	NormalNormal		76.0	60.0	82.0	60.0	82.0	120.0	6.0	0
+264	LinooneLinoone	NormalNormal		156.0	140.0	122.0	100.0	122.0	200.0	6.0	0
+265	WurmpleWurmple	BugBug		90.0	90.0	70.0	40.0	60.0	40.0	6.0	0
+266	SilcoonSilcoon	BugBug		100.0	70.0	110.0	50.0	50.0	30.0	6.0	0
+267	BeautiflyBeautifly	BugBug	FlyingFlying	120.0	140.0	100.0	200.0	100.0	130.0	6.0	0
+268	CascoonCascoon	BugBug		100.0	70.0	110.0	50.0	50.0	30.0	6.0	0
+269	DustoxDustox	BugBug	PoisonPoison	120.0	100.0	140.0	100.0	180.0	130.0	6.0	0
+270	LotadLotad	WaterWater	GrassGrass	80.0	60.0	60.0	80.0	100.0	60.0	6.0	0
+271	LombreLombre	WaterWater	GrassGrass	120.0	100.0	100.0	120.0	140.0	100.0	6.0	0
+272	LudicoloLudicolo	WaterWater	GrassGrass	160.0	140.0	140.0	180.0	200.0	140.0	6.0	0
+273	SeedotSeedot	GrassGrass		80.0	80.0	100.0	60.0	60.0	60.0	6.0	0
+274	NuzleafNuzleaf	GrassGrass	DarkDark	140.0	140.0	80.0	120.0	80.0	120.0	6.0	0
+275	ShiftryShiftry	GrassGrass	DarkDark	180.0	200.0	120.0	180.0	120.0	160.0	6.0	0
+276	TaillowTaillow	NormalNormal	FlyingFlying	80.0	110.0	60.0	60.0	60.0	170.0	6.0	0
+277	SwellowSwellow	NormalNormal	FlyingFlying	120.0	170.0	120.0	100.0	100.0	250.0	6.0	0
+278	WingullWingull	WaterWater	FlyingFlying	80.0	60.0	60.0	110.0	60.0	170.0	6.0	0
+279	PelipperPelipper	WaterWater	FlyingFlying	120.0	100.0	200.0	170.0	140.0	130.0	6.0	0
+280	RaltsRalts	PsychicPsychic	FairyFairy	56.0	50.0	50.0	90.0	70.0	80.0	6.0	0
+281	KirliaKirlia	PsychicPsychic	FairyFairy	76.0	70.0	70.0	130.0	110.0	100.0	6.0	0
+282	GardevoirGardevoir	PsychicPsychic	FairyFairy	136.0	130.0	130.0	250.0	230.0	160.0	6.0	0
+282	GardevoirGardevoirMega Gardevoir	PsychicPsychic	FairyFairy	136.0	150.0	130.0	290.0	250.0	180.0	6.0	0
+282	GardevoirMega GardevoirGardevoir	PsychicPsychic	FairyFairy	136.0	150.0	130.0	290.0	250.0	180.0	6.0	0
+282	GardevoirMega GardevoirGardevoirMega Gardevoir	PsychicPsychic	FairyFairy	136.0	170.0	130.0	330.0	270.0	200.0	6.0	0
+283	SurskitSurskit	BugBug	WaterWater	80.0	60.0	64.0	100.0	104.0	130.0	6.0	0
+284	MasquerainMasquerain	BugBug	FlyingFlying	140.0	120.0	124.0	160.0	164.0	120.0	6.0	0
+285	ShroomishShroomish	GrassGrass		120.0	80.0	120.0	80.0	120.0	70.0	6.0	0
+286	BreloomBreloom	GrassGrass	FightingFighting	120.0	260.0	160.0	120.0	120.0	140.0	6.0	0
+287	SlakothSlakoth	NormalNormal		120.0	120.0	120.0	70.0	70.0	60.0	6.0	0
+288	VigorothVigoroth	NormalNormal		160.0	160.0	160.0	110.0	110.0	180.0	6.0	0
+289	SlakingSlaking	NormalNormal		300.0	320.0	200.0	190.0	130.0	200.0	6.0	0
+290	NincadaNincada	BugBug	GroundGround	62.0	90.0	180.0	60.0	60.0	80.0	6.0	0
+291	NinjaskNinjask	BugBug	FlyingFlying	122.0	180.0	90.0	100.0	100.0	320.0	6.0	0
+292	ShedinjaShedinja	BugBug	GhostGhost	2.0	180.0	90.0	60.0	60.0	80.0	6.0	0
+293	WhismurWhismur	NormalNormal		128.0	102.0	46.0	102.0	46.0	56.0	6.0	0
+294	LoudredLoudred	NormalNormal		168.0	142.0	86.0	142.0	86.0	96.0	6.0	0
+295	ExploudExploud	NormalNormal		208.0	182.0	126.0	182.0	146.0	136.0	6.0	0
+296	MakuhitaMakuhita	FightingFighting		144.0	120.0	60.0	40.0	60.0	50.0	6.0	0
+297	HariyamaHariyama	FightingFighting		288.0	240.0	120.0	80.0	120.0	100.0	6.0	0
+298	AzurillAzurill	NormalNormal	FairyFairy	100.0	40.0	80.0	40.0	80.0	40.0	6.0	0
+299	NosepassNosepass	RockRock		60.0	90.0	270.0	90.0	180.0	60.0	6.0	0
+300	SkittySkitty	NormalNormal		100.0	90.0	90.0	70.0	70.0	100.0	6.0	0
+301	DelcattyDelcatty	NormalNormal		140.0	130.0	130.0	110.0	110.0	140.0	6.0	0
+302	SableyeSableye	DarkDark	GhostGhost	100.0	150.0	150.0	130.0	130.0	100.0	6.0	0
+302	SableyeSableyeMega Sableye	DarkDark	GhostGhost	100.0	160.0	200.0	150.0	180.0	70.0	6.0	0
+302	SableyeMega SableyeSableye	DarkDark	GhostGhost	100.0	160.0	200.0	150.0	180.0	70.0	6.0	0
+302	SableyeMega SableyeSableyeMega Sableye	DarkDark	GhostGhost	100.0	170.0	250.0	170.0	230.0	40.0	6.0	0
+303	MawileMawile	SteelSteel	FairyFairy	100.0	170.0	170.0	110.0	110.0	100.0	6.0	0
+303	MawileMawileMega Mawile	SteelSteel	FairyFairy	100.0	190.0	210.0	110.0	150.0	100.0	6.0	0
+303	MawileMega MawileMawile	SteelSteel	FairyFairy	100.0	190.0	210.0	110.0	150.0	100.0	6.0	0
+303	MawileMega MawileMawileMega Mawile	SteelSteel	FairyFairy	100.0	210.0	250.0	110.0	190.0	100.0	6.0	0
+304	AronAron	SteelSteel	RockRock	100.0	140.0	200.0	80.0	80.0	60.0	6.0	0
+305	LaironLairon	SteelSteel	RockRock	120.0	180.0	280.0	100.0	100.0	80.0	6.0	0
+306	AggronMega AggronAggron	SteelSteel		140.0	250.0	410.0	120.0	140.0	100.0	6.0	0
+306	AggronMega AggronAggronMega Aggron	SteelSteel		140.0	280.0	460.0	120.0	160.0	100.0	6.0	0
+306	AggronAggron	SteelSteel	RockRock	140.0	220.0	360.0	120.0	120.0	100.0	6.0	0
+306	AggronAggronMega Aggron	SteelSteel		140.0	250.0	410.0	120.0	140.0	100.0	6.0	0
+307	MedititeMeditite	FightingFighting	PsychicPsychic	60.0	80.0	110.0	80.0	110.0	120.0	6.0	0
+308	MedichamMega MedichamMedicham	FightingFighting	PsychicPsychic	120.0	160.0	160.0	140.0	160.0	180.0	6.0	0
+308	MedichamMega MedichamMedichamMega Medicham	FightingFighting	PsychicPsychic	120.0	200.0	170.0	160.0	170.0	200.0	6.0	0
+308	MedichamMedicham	FightingFighting	PsychicPsychic	120.0	120.0	150.0	120.0	150.0	160.0	6.0	0
+308	MedichamMedichamMega Medicham	FightingFighting	PsychicPsychic	120.0	160.0	160.0	140.0	160.0	180.0	6.0	0
+309	ElectrikeElectrike	ElectricElectric		80.0	90.0	80.0	130.0	80.0	130.0	6.0	0
+310	ManectricManectric	ElectricElectric		140.0	150.0	120.0	210.0	120.0	210.0	6.0	0
+310	ManectricManectricMega Manectric	ElectricElectric		140.0	150.0	140.0	240.0	140.0	240.0	6.0	0
+310	ManectricMega ManectricManectric	ElectricElectric		140.0	150.0	140.0	240.0	140.0	240.0	6.0	0
+310	ManectricMega ManectricManectricMega Manectric	ElectricElectric		140.0	150.0	160.0	270.0	160.0	270.0	6.0	0
+311	PluslePlusle	ElectricElectric		120.0	100.0	80.0	170.0	150.0	190.0	6.0	0
+312	MinunMinun	ElectricElectric		120.0	80.0	100.0	150.0	170.0	190.0	6.0	0
+313	VolbeatVolbeat	BugBug		130.0	146.0	110.0	94.0	150.0	170.0	6.0	0
+314	IllumiseIllumise	BugBug		130.0	94.0	110.0	146.0	150.0	170.0	6.0	0
+315	RoseliaRoselia	GrassGrass	PoisonPoison	100.0	120.0	90.0	200.0	160.0	130.0	6.0	0
+316	GulpinGulpin	PoisonPoison		140.0	86.0	106.0	86.0	106.0	80.0	6.0	0
+317	SwalotSwalot	PoisonPoison		200.0	146.0	166.0	146.0	166.0	110.0	6.0	0
+318	CarvanhaCarvanha	WaterWater	DarkDark	90.0	180.0	40.0	130.0	40.0	130.0	6.0	0
+319	SharpedoSharpedo	WaterWater	DarkDark	140.0	240.0	80.0	190.0	80.0	190.0	6.0	0
+319	SharpedoSharpedoMega Sharpedo	WaterWater	DarkDark	140.0	260.0	110.0	205.0	105.0	200.0	6.0	0
+319	SharpedoMega SharpedoSharpedo	WaterWater	DarkDark	140.0	260.0	110.0	205.0	105.0	200.0	6.0	0
+319	SharpedoMega SharpedoSharpedoMega Sharpedo	WaterWater	DarkDark	140.0	280.0	140.0	220.0	130.0	210.0	6.0	0
+320	WailmerWailmer	WaterWater		260.0	140.0	70.0	140.0	70.0	120.0	6.0	0
+321											
+322	NumelNumel	FireFire	GroundGround	120.0	120.0	80.0	130.0	90.0	70.0	6.0	0
+323	CameruptMega CameruptCamerupt	FireFire	GroundGround	140.0	220.0	170.0	250.0	180.0	60.0	6.0	0
+323	CameruptMega CameruptCameruptMega Camerupt	FireFire	GroundGround	140.0	240.0	200.0	290.0	210.0	40.0	6.0	0
+323	CameruptCamerupt	FireFire	GroundGround	140.0	200.0	140.0	210.0	150.0	80.0	6.0	0
+323	CameruptCameruptMega Camerupt	FireFire	GroundGround	140.0	220.0	170.0	250.0	180.0	60.0	6.0	0
+324	TorkoalTorkoal	FireFire		140.0	170.0	280.0	170.0	140.0	40.0	6.0	0
+325	SpoinkSpoink	PsychicPsychic		120.0	50.0	70.0	140.0	160.0	120.0	6.0	0
+326	GrumpigGrumpig	PsychicPsychic		160.0	90.0	130.0	180.0	220.0	160.0	6.0	0
+327	SpindaSpinda	NormalNormal		120.0	120.0	120.0	120.0	120.0	120.0	6.0	0
+328	TrapinchTrapinch	GroundGround		90.0	200.0	90.0	90.0	90.0	20.0	6.0	0
+329	VibravaVibrava	GroundGround	DragonDragon	100.0	140.0	100.0	100.0	100.0	140.0	6.0	0
+330	FlygonFlygon	GroundGround	DragonDragon	160.0	200.0	160.0	160.0	160.0	200.0	6.0	0
+331	CacneaCacnea	GrassGrass		100.0	170.0	80.0	170.0	80.0	70.0	6.0	0
+332	CacturneCacturne	GrassGrass	DarkDark	140.0	230.0	120.0	230.0	120.0	110.0	6.0	0
+333	SwabluSwablu	NormalNormal	FlyingFlying	90.0	80.0	120.0	80.0	150.0	100.0	6.0	0
+334	AltariaMega AltariaAltaria	DragonDragon	FairyFlying	150.0	180.0	200.0	180.0	210.0	160.0	6.0	0
+334	AltariaMega AltariaAltariaMega Altaria	DragonDragon	FairyFairy	150.0	220.0	220.0	220.0	210.0	160.0	6.0	0
+334	AltariaAltaria	DragonDragon	FlyingFlying	150.0	140.0	180.0	140.0	210.0	160.0	6.0	0
+334	AltariaAltariaMega Altaria	DragonDragon	FlyingFairy	150.0	180.0	200.0	180.0	210.0	160.0	6.0	0
+335	ZangooseZangoose	NormalNormal		146.0	230.0	120.0	120.0	120.0	180.0	6.0	0
+336	SeviperSeviper	PoisonPoison		146.0	200.0	120.0	200.0	120.0	130.0	6.0	0
+337	LunatoneLunatone	RockRock	PsychicPsychic	140.0	110.0	130.0	190.0	170.0	140.0	6.0	0
+338	SolrockSolrock	RockRock	PsychicPsychic	140.0	190.0	170.0	110.0	130.0	140.0	6.0	0
+339	BarboachBarboach	WaterWater	GroundGround	100.0	96.0	86.0	92.0	82.0	120.0	6.0	0
+340	WhiscashWhiscash	WaterWater	GroundGround	220.0	156.0	146.0	152.0	142.0	120.0	6.0	0
+341	CorphishCorphish	WaterWater		86.0	160.0	130.0	100.0	70.0	70.0	6.0	0
+342	CrawdauntCrawdaunt	WaterWater	DarkDark	126.0	240.0	170.0	180.0	110.0	110.0	6.0	0
+343	BaltoyBaltoy	GroundGround	PsychicPsychic	80.0	80.0	110.0	80.0	140.0	110.0	6.0	0
+344	ClaydolClaydol	GroundGround	PsychicPsychic	120.0	140.0	210.0	140.0	240.0	150.0	6.0	0
+345	LileepLileep	RockRock	GrassGrass	132.0	82.0	154.0	122.0	174.0	46.0	6.0	0
+346	CradilyCradily	RockRock	GrassGrass	172.0	162.0	194.0	162.0	214.0	86.0	6.0	0
+347	AnorithAnorith	RockRock	BugBug	90.0	190.0	100.0	80.0	100.0	150.0	6.0	0
+348	ArmaldoArmaldo	RockRock	BugBug	150.0	250.0	200.0	140.0	160.0	90.0	6.0	0
+349	FeebasFeebas	WaterWater		40.0	30.0	40.0	20.0	110.0	160.0	6.0	0
+350	MiloticMilotic	WaterWater		190.0	120.0	158.0	200.0	250.0	162.0	6.0	0
+351	CastformCastform	NormalNormal		140.0	140.0	140.0	140.0	140.0	140.0	6.0	0
+352	KecleonKecleon	NormalNormal		120.0	180.0	140.0	120.0	240.0	80.0	6.0	0
+353	ShuppetShuppet	GhostGhost		88.0	150.0	70.0	126.0	66.0	90.0	6.0	0
+354	BanetteBanette	GhostGhost		128.0	230.0	130.0	166.0	126.0	130.0	6.0	0
+354	BanetteBanetteMega Banette	GhostGhost		128.0	280.0	140.0	176.0	146.0	140.0	6.0	0
+354	BanetteMega BanetteBanette	GhostGhost		128.0	280.0	140.0	176.0	146.0	140.0	6.0	0
+354	BanetteMega BanetteBanetteMega Banette	GhostGhost		128.0	330.0	150.0	186.0	166.0	150.0	6.0	0
+355	DuskullDuskull	GhostGhost		40.0	80.0	180.0	60.0	180.0	50.0	6.0	0
+356	DusclopsDusclops	GhostGhost		80.0	140.0	260.0	120.0	260.0	50.0	6.0	0
+357	TropiusTropius	GrassGrass	FlyingFlying	198.0	136.0	166.0	144.0	174.0	102.0	6.0	0
+358	ChimechoChimecho	PsychicPsychic		130.0	100.0	140.0	190.0	160.0	130.0	6.0	0
+359	AbsolAbsol	DarkDark		130.0	260.0	120.0	150.0	120.0	150.0	6.0	0
+359	AbsolAbsolMega Absol	DarkDark		130.0	280.0	120.0	190.0	120.0	190.0	6.0	0
+359	AbsolMega AbsolAbsol	DarkDark		130.0	280.0	120.0	190.0	120.0	190.0	6.0	0
+359	AbsolMega AbsolAbsolMega Absol	DarkDark		130.0	300.0	120.0	230.0	120.0	230.0	6.0	0
+360	WynautWynaut	PsychicPsychic		190.0	46.0	96.0	46.0	96.0	46.0	6.0	0
+361	SnoruntSnorunt	IceIce		100.0	100.0	100.0	100.0	100.0	100.0	6.0	0
+362	GlalieGlalie	IceIce		160.0	160.0	160.0	160.0	160.0	160.0	6.0	0
+362	GlalieGlalieMega Glalie	IceIce		160.0	200.0	160.0	200.0	160.0	180.0	6.0	0
+362	GlalieMega GlalieGlalie	IceIce		160.0	200.0	160.0	200.0	160.0	180.0	6.0	0
+362	GlalieMega GlalieGlalieMega Glalie	IceIce		160.0	240.0	160.0	240.0	160.0	200.0	6.0	0
+363	SphealSpheal	IceIce	WaterWater	140.0	80.0	100.0	110.0	100.0	50.0	6.0	0
+364	SealeoSealeo	IceIce	WaterWater	180.0	120.0	140.0	150.0	140.0	90.0	6.0	0
+365	WalreinWalrein	IceIce	WaterWater	220.0	160.0	180.0	190.0	180.0	130.0	6.0	0
+366	ClamperlClamperl	WaterWater		70.0	128.0	170.0	148.0	110.0	64.0	6.0	0
+367	HuntailHuntail	WaterWater		110.0	208.0	210.0	188.0	150.0	104.0	6.0	0
+368	GorebyssGorebyss	WaterWater		110.0	168.0	210.0	228.0	150.0	104.0	6.0	0
+369	RelicanthRelicanth	WaterWater	RockRock	200.0	180.0	260.0	90.0	130.0	110.0	6.0	0
+370	LuvdiscLuvdisc	WaterWater		86.0	60.0	110.0	80.0	130.0	194.0	6.0	0
+371	BagonBagon	DragonDragon		90.0	150.0	120.0	80.0	60.0	100.0	6.0	0
+372	ShelgonShelgon	DragonDragon		130.0	190.0	200.0	120.0	100.0	100.0	6.0	0
+373	SalamenceSalamence	DragonDragon	FlyingFlying	190.0	270.0	160.0	220.0	160.0	200.0	6.0	0
+373	SalamenceSalamenceMega Salamence	DragonDragon	FlyingFlying	190.0	280.0	210.0	230.0	170.0	220.0	6.0	0
+373	SalamenceMega SalamenceSalamence	DragonDragon	FlyingFlying	190.0	280.0	210.0	230.0	170.0	220.0	6.0	0
+373	SalamenceMega SalamenceSalamenceMega Salamence	DragonDragon	FlyingFlying	190.0	290.0	260.0	240.0	180.0	240.0	6.0	0
+374	BeldumBeldum	SteelSteel	PsychicPsychic	80.0	110.0	160.0	70.0	120.0	60.0	6.0	0
+375	MetangMetang	SteelSteel	PsychicPsychic	120.0	150.0	200.0	110.0	160.0	100.0	6.0	0
+376	MetagrossMetagross	SteelSteel	PsychicPsychic	160.0	270.0	260.0	190.0	180.0	140.0	6.0	0
+376	MetagrossMetagrossMega Metagross	SteelSteel	PsychicPsychic	160.0	280.0	280.0	200.0	200.0	180.0	6.0	0
+376	MetagrossMega MetagrossMetagross	SteelSteel	PsychicPsychic	160.0	280.0	280.0	200.0	200.0	180.0	6.0	0
+376	MetagrossMega MetagrossMetagrossMega Metagross	SteelSteel	PsychicPsychic	160.0	290.0	300.0	210.0	220.0	220.0	6.0	0
+377	RegirockRegirock	RockRock		160.0	200.0	400.0	100.0	200.0	100.0	6.0	2
+378	RegiceRegice	IceIce		160.0	100.0	200.0	200.0	400.0	100.0	6.0	2
+379	RegisteelRegisteel	SteelSteel		160.0	150.0	300.0	150.0	300.0	100.0	6.0	2
+380	LatiasLatias	DragonDragon	PsychicPsychic	160.0	160.0	180.0	220.0	260.0	220.0	6.0	2
+380	LatiasLatiasMega Latias	DragonDragon	PsychicPsychic	160.0	180.0	210.0	250.0	280.0	220.0	6.0	2
+380	LatiasMega LatiasLatias	DragonDragon	PsychicPsychic	160.0	180.0	210.0	250.0	280.0	220.0	6.0	2
+380	LatiasMega LatiasLatiasMega Latias	DragonDragon	PsychicPsychic	160.0	200.0	240.0	280.0	300.0	220.0	6.0	2
+381	LatiosMega LatiosLatios	DragonDragon	PsychicPsychic	160.0	220.0	180.0	290.0	230.0	220.0	6.0	2
+381	LatiosMega LatiosLatiosMega Latios	DragonDragon	PsychicPsychic	160.0	260.0	200.0	320.0	240.0	220.0	6.0	2
+381	LatiosLatios	DragonDragon	PsychicPsychic	160.0	180.0	160.0	260.0	220.0	220.0	6.0	2
+381	LatiosLatiosMega Latios	DragonDragon	PsychicPsychic	160.0	220.0	180.0	290.0	230.0	220.0	6.0	2
+382	KyogreKyogre	WaterWater		200.0	200.0	180.0	300.0	280.0	180.0	6.0	2
+382	KyogreKyogrePrimal Kyogre	WaterWater		200.0	250.0	180.0	330.0	300.0	180.0	6.0	2
+382	KyogrePrimal KyogreKyogre	WaterWater		200.0	250.0	180.0	330.0	300.0	180.0	6.0	2
+382	KyogrePrimal KyogreKyogrePrimal Kyogre	WaterWater		200.0	300.0	180.0	360.0	320.0	180.0	6.0	2
+383	GroudonPrimal GroudonGroudon	GroundGround		200.0	330.0	300.0	250.0	180.0	180.0	6.0	2
+383	GroudonPrimal GroudonGroudonPrimal Groudon	GroundGround	FireFire	200.0	360.0	320.0	300.0	180.0	180.0	6.0	2
+383	GroudonGroudon	GroundGround		200.0	300.0	280.0	200.0	180.0	180.0	6.0	2
+383	GroudonGroudonPrimal Groudon	GroundGround		200.0	330.0	300.0	250.0	180.0	180.0	6.0	2
+384	RayquazaRayquaza	DragonDragon	FlyingFlying	210.0	300.0	180.0	300.0	180.0	190.0	6.0	2
+384	RayquazaRayquazaMega Rayquaza	DragonDragon	FlyingFlying	210.0	330.0	190.0	330.0	190.0	210.0	6.0	2
+384	RayquazaMega RayquazaRayquaza	DragonDragon	FlyingFlying	210.0	330.0	190.0	330.0	190.0	210.0	6.0	2
+384	RayquazaMega RayquazaRayquazaMega Rayquaza	DragonDragon	FlyingFlying	210.0	360.0	200.0	360.0	200.0	230.0	6.0	2
+385	JirachiJirachi	SteelSteel	PsychicPsychic	200.0	200.0	200.0	200.0	200.0	200.0	6.0	2
+386	DeoxysAttack FormeDeoxysNormal Forme	PsychicPsychic		100.0	330.0	70.0	330.0	70.0	300.0	6.0	2
+386	DeoxysAttack FormeDeoxysAttack Forme	PsychicPsychic		100.0	360.0	40.0	360.0	40.0	300.0	6.0	2
+386	DeoxysAttack FormeDeoxysDefense Forme	PsychicPsychic		100.0	250.0	180.0	250.0	180.0	240.0	6.0	2
+386	DeoxysAttack FormeDeoxysSpeed Forme	PsychicPsychic		100.0	275.0	110.0	275.0	110.0	330.0	6.0	2
+386	DeoxysDefense FormeDeoxysNormal Forme	PsychicPsychic		100.0	220.0	210.0	220.0	210.0	240.0	6.0	2
+386	DeoxysDefense FormeDeoxysAttack Forme	PsychicPsychic		100.0	250.0	180.0	250.0	180.0	240.0	6.0	2
+386	DeoxysDefense FormeDeoxysDefense Forme	PsychicPsychic		100.0	140.0	320.0	140.0	320.0	180.0	6.0	2
+386	DeoxysDefense FormeDeoxysSpeed Forme	PsychicPsychic		100.0	165.0	250.0	165.0	250.0	270.0	6.0	2
+386	DeoxysSpeed FormeDeoxysNormal Forme	PsychicPsychic		100.0	245.0	140.0	245.0	140.0	330.0	6.0	2
+386	DeoxysSpeed FormeDeoxysAttack Forme	PsychicPsychic		100.0	275.0	110.0	275.0	110.0	330.0	6.0	2
+386	DeoxysSpeed FormeDeoxysDefense Forme	PsychicPsychic		100.0	165.0	250.0	165.0	250.0	270.0	6.0	2
+386	DeoxysSpeed FormeDeoxysSpeed Forme	PsychicPsychic		100.0	190.0	180.0	190.0	180.0	360.0	6.0	2
+386	DeoxysNormal FormeDeoxysNormal Forme	PsychicPsychic		100.0	300.0	100.0	300.0	100.0	300.0	6.0	2
+386	DeoxysNormal FormeDeoxysAttack Forme	PsychicPsychic		100.0	330.0	70.0	330.0	70.0	300.0	6.0	2
+386	DeoxysNormal FormeDeoxysDefense Forme	PsychicPsychic		100.0	220.0	210.0	220.0	210.0	240.0	6.0	2
+386	DeoxysNormal FormeDeoxysSpeed Forme	PsychicPsychic		100.0	245.0	140.0	245.0	140.0	330.0	6.0	2
+387	TurtwigTurtwig	GrassGrass		110.0	136.0	128.0	90.0	110.0	62.0	8.0	0
+388	GrotleGrotle	GrassGrass		150.0	178.0	170.0	110.0	130.0	72.0	8.0	0
+389	TorterraTorterra	GrassGrass	GroundGround	190.0	218.0	210.0	150.0	170.0	112.0	8.0	0
+390	ChimcharChimchar	FireFire		88.0	116.0	88.0	116.0	88.0	122.0	8.0	0
+391	MonfernoMonferno	FireFire	FightingFighting	128.0	156.0	104.0	156.0	104.0	162.0	8.0	0
+392	InfernapeInfernape	FireFire	FightingFighting	152.0	208.0	142.0	208.0	142.0	216.0	8.0	0
+393	PiplupPiplup	WaterWater		106.0	102.0	106.0	122.0	112.0	80.0	8.0	0
+394	PrinplupPrinplup	WaterWater		128.0	132.0	136.0	162.0	152.0	100.0	8.0	0
+395	EmpoleonEmpoleon	WaterWater	SteelSteel	168.0	172.0	176.0	222.0	202.0	120.0	8.0	0
+396	StarlyStarly	NormalNormal	FlyingFlying	80.0	110.0	60.0	60.0	60.0	120.0	8.0	0
+397	StaraviaStaravia	NormalNormal	FlyingFlying	110.0	150.0	100.0	80.0	80.0	160.0	8.0	0
+398	StaraptorStaraptor	NormalNormal	FlyingFlying	170.0	240.0	140.0	100.0	120.0	200.0	8.0	0
+399	BidoofBidoof	NormalNormal		118.0	90.0	80.0	70.0	80.0	62.0	8.0	0
+400	BibarelBibarel	NormalNormal	WaterWater	158.0	170.0	120.0	110.0	120.0	142.0	8.0	0
+401	KricketotKricketot	BugBug		74.0	50.0	82.0	50.0	82.0	50.0	8.0	0
+402	KricketuneKricketune	BugBug		154.0	170.0	102.0	110.0	102.0	130.0	8.0	0
+403	ShinxShinx	ElectricElectric		90.0	130.0	68.0	80.0	68.0	90.0	8.0	0
+404	LuxioLuxio	ElectricElectric		120.0	170.0	98.0	120.0	98.0	120.0	8.0	0
+405	LuxrayLuxray	ElectricElectric		160.0	240.0	158.0	190.0	158.0	140.0	8.0	0
+406	BudewBudew	GrassGrass	PoisonPoison	80.0	60.0	70.0	100.0	140.0	110.0	8.0	0
+407	RoseradeRoserade	GrassGrass	PoisonPoison	120.0	140.0	130.0	250.0	210.0	180.0	8.0	0
+408	CranidosCranidos	RockRock		134.0	250.0	80.0	60.0	60.0	116.0	8.0	0
+409	RampardosRampardos	RockRock		194.0	330.0	120.0	130.0	100.0	116.0	8.0	0
+410	ShieldonShieldon	RockRock	SteelSteel	60.0	84.0	236.0	84.0	176.0	60.0	8.0	0
+411	BastiodonBastiodon	RockRock	SteelSteel	120.0	104.0	336.0	94.0	276.0	60.0	8.0	0
+412	BurmyBurmy	BugBug		80.0	58.0	90.0	58.0	90.0	72.0	8.0	0
+413	WormadamTrash CloakWormadamPlant Cloak	BugBug	SteelGrass	120.0	128.0	180.0	148.0	200.0	72.0	8.0	0
+413	WormadamTrash CloakWormadamSandy Cloak	BugBug	SteelGround	120.0	148.0	200.0	128.0	180.0	72.0	8.0	0
+413	WormadamTrash CloakWormadamTrash Cloak	BugBug	SteelSteel	120.0	138.0	190.0	138.0	190.0	72.0	8.0	0
+413	WormadamSandy CloakWormadamPlant Cloak	BugBug	GroundGrass	120.0	138.0	190.0	138.0	190.0	72.0	8.0	0
+413	WormadamSandy CloakWormadamSandy Cloak	BugBug	GroundGround	120.0	158.0	210.0	118.0	170.0	72.0	8.0	0
+413	WormadamSandy CloakWormadamTrash Cloak	BugBug	GroundSteel	120.0	148.0	200.0	128.0	180.0	72.0	8.0	0
+413	WormadamPlant CloakWormadamPlant Cloak	BugBug	GrassGrass	120.0	118.0	170.0	158.0	210.0	72.0	8.0	0
+413	WormadamPlant CloakWormadamSandy Cloak	BugBug	GrassGround	120.0	138.0	190.0	138.0	190.0	72.0	8.0	0
+413	WormadamPlant CloakWormadamTrash Cloak	BugBug	GrassSteel	120.0	128.0	180.0	148.0	200.0	72.0	8.0	0
+414	MothimMothim	BugBug	FlyingFlying	140.0	188.0	100.0	188.0	100.0	132.0	8.0	0
+415	CombeeCombee	BugBug	FlyingFlying	60.0	60.0	84.0	60.0	84.0	140.0	8.0	0
+416	VespiquenVespiquen	BugBug	FlyingFlying	140.0	160.0	204.0	160.0	204.0	80.0	8.0	0
+417	PachirisuPachirisu	ElectricElectric		120.0	90.0	140.0	90.0	180.0	190.0	8.0	0
+418	BuizelBuizel	WaterWater		110.0	130.0	70.0	120.0	60.0	170.0	8.0	0
+419	FloatzelFloatzel	WaterWater		170.0	210.0	110.0	170.0	100.0	230.0	8.0	0
+420	CherubiCherubi	GrassGrass		90.0	70.0	90.0	124.0	106.0	70.0	8.0	0
+421	CherrimCherrim	GrassGrass		140.0	120.0	140.0	174.0	156.0	170.0	8.0	0
+422	ShellosShellos	WaterWater		152.0	96.0	96.0	114.0	124.0	68.0	8.0	0
+423	GastrodonGastrodon	WaterWater	GroundGround	222.0	166.0	136.0	184.0	164.0	78.0	8.0	0
+424	AmbipomAmbipom	NormalNormal		150.0	200.0	132.0	120.0	132.0	230.0	8.0	0
+425	DrifloonDrifloon	GhostGhost	FlyingFlying	180.0	100.0	68.0	120.0	88.0	140.0	8.0	0
+426	DrifblimDrifblim	GhostGhost	FlyingFlying	300.0	160.0	88.0	180.0	108.0	160.0	8.0	0
+427	BunearyBuneary	NormalNormal		110.0	132.0	88.0	88.0	112.0	170.0	8.0	0
+428	LopunnyMega LopunnyLopunny	NormalNormal		130.0	212.0	178.0	108.0	192.0	240.0	8.0	0
+428	LopunnyMega LopunnyLopunnyMega Lopunny	NormalNormal	FightingFighting	130.0	272.0	188.0	108.0	192.0	270.0	8.0	0
+428	LopunnyLopunny	NormalNormal		130.0	152.0	168.0	108.0	192.0	210.0	8.0	0
+428	LopunnyLopunnyMega Lopunny	NormalNormal		130.0	212.0	178.0	108.0	192.0	240.0	8.0	0
+429	MismagiusMismagius	GhostGhost		120.0	120.0	120.0	210.0	210.0	210.0	8.0	0
+430	HonchkrowHonchkrow	DarkDark	FlyingFlying	200.0	250.0	104.0	210.0	104.0	142.0	8.0	0
+431	GlameowGlameow	NormalNormal		98.0	110.0	84.0	84.0	74.0	170.0	8.0	0
+432	PuruglyPurugly	NormalNormal		142.0	164.0	128.0	128.0	118.0	224.0	8.0	0
+433	ChinglingChingling	PsychicPsychic		90.0	60.0	100.0	130.0	100.0	90.0	8.0	0
+434	StunkyStunky	PoisonPoison	DarkDark	126.0	126.0	94.0	82.0	82.0	148.0	8.0	0
+435	SkuntankSkuntank	PoisonPoison	DarkDark	206.0	186.0	134.0	142.0	122.0	168.0	8.0	0
+436	BronzorBronzor	SteelSteel	PsychicPsychic	114.0	48.0	172.0	48.0	172.0	46.0	8.0	0
+437	BronzongBronzong	SteelSteel	PsychicPsychic	134.0	178.0	232.0	158.0	232.0	66.0	8.0	0
+438	BonslyBonsly	RockRock		100.0	160.0	190.0	20.0	90.0	20.0	8.0	0
+439	Mime Jr.Mime Jr.	PsychicPsychic	FairyFairy	40.0	50.0	90.0	140.0	180.0	120.0	8.0	0
+440	HappinyHappiny	NormalNormal		200.0	10.0	10.0	30.0	130.0	60.0	8.0	0
+441	ChatotChatot	NormalNormal	FlyingFlying	152.0	130.0	90.0	184.0	84.0	182.0	8.0	0
+442	SpiritombSpiritomb	GhostGhost	DarkDark	100.0	184.0	216.0	184.0	216.0	70.0	8.0	0
+443	GibleGible	DragonDragon	GroundGround	116.0	140.0	90.0	80.0	90.0	84.0	8.0	0
+444	GabiteGabite	DragonDragon	GroundGround	136.0	180.0	130.0	100.0	110.0	164.0	8.0	0
+445	GarchompMega GarchompGarchomp	DragonDragon	GroundGround	216.0	300.0	210.0	200.0	180.0	194.0	8.0	0
+445	GarchompMega GarchompGarchompMega Garchomp	DragonDragon	GroundGround	216.0	340.0	230.0	240.0	190.0	184.0	8.0	0
+445	GarchompGarchomp	DragonDragon	GroundGround	216.0	260.0	190.0	160.0	170.0	204.0	8.0	0
+445	GarchompGarchompMega Garchomp	DragonDragon	GroundGround	216.0	300.0	210.0	200.0	180.0	194.0	8.0	0
+446	MunchlaxMunchlax	NormalNormal		270.0	170.0	80.0	80.0	170.0	10.0	8.0	0
+447	RioluRiolu	FightingFighting		80.0	140.0	80.0	70.0	80.0	120.0	8.0	0
+448	LucarioMega LucarioLucario	FightingFighting	SteelSteel	140.0	255.0	158.0	255.0	140.0	202.0	8.0	0
+448	LucarioMega LucarioLucarioMega Lucario	FightingFighting	SteelSteel	140.0	290.0	176.0	280.0	140.0	224.0	8.0	0
+448	LucarioLucario	FightingFighting	SteelSteel	140.0	220.0	140.0	230.0	140.0	180.0	8.0	0
+448	LucarioLucarioMega Lucario	FightingFighting	SteelSteel	140.0	255.0	158.0	255.0	140.0	202.0	8.0	0
+449	HippopotasHippopotas	GroundGround		136.0	144.0	156.0	76.0	84.0	64.0	8.0	0
+450	HippowdonHippowdon	GroundGround		216.0	224.0	236.0	136.0	144.0	94.0	8.0	0
+451	SkorupiSkorupi	PoisonPoison	BugBug	80.0	100.0	180.0	60.0	110.0	130.0	8.0	0
+452	DrapionDrapion	PoisonPoison	DarkDark	140.0	180.0	220.0	120.0	150.0	190.0	8.0	0
+453	CroagunkCroagunk	PoisonPoison	FightingFighting	96.0	122.0	80.0	122.0	80.0	100.0	8.0	0
+454	ToxicroakToxicroak	PoisonPoison	FightingFighting	166.0	212.0	130.0	172.0	130.0	170.0	8.0	0
+455	CarnivineCarnivine	GrassGrass		148.0	200.0	144.0	180.0	144.0	92.0	8.0	0
+456	FinneonFinneon	WaterWater		98.0	98.0	112.0	98.0	122.0	132.0	8.0	0
+457	LumineonLumineon	WaterWater		138.0	138.0	152.0	138.0	172.0	182.0	8.0	0
+458	MantykeMantyke	WaterWater	FlyingFlying	90.0	40.0	100.0	120.0	240.0	100.0	8.0	0
+459	SnoverSnover	GrassGrass	IceIce	120.0	124.0	100.0	124.0	120.0	80.0	8.0	0
+460	AbomasnowMega AbomasnowAbomasnow	GrassGrass	IceIce	180.0	224.0	180.0	224.0	190.0	90.0	8.0	0
+460	AbomasnowMega AbomasnowAbomasnowMega Abomasnow	GrassGrass	IceIce	180.0	264.0	210.0	264.0	210.0	60.0	8.0	0
+460	AbomasnowAbomasnow	GrassGrass	IceIce	180.0	184.0	150.0	184.0	170.0	120.0	8.0	0
+460	AbomasnowAbomasnowMega Abomasnow	GrassGrass	IceIce	180.0	224.0	180.0	224.0	190.0	90.0	8.0	0
+461	WeavileWeavile	DarkDark	IceIce	140.0	240.0	130.0	90.0	170.0	250.0	8.0	0
+462	MagnezoneMagnezone	ElectricElectric	SteelSteel	140.0	140.0	230.0	260.0	180.0	120.0	8.0	0
+463	LickilickyLickilicky	NormalNormal		220.0	170.0	190.0	160.0	190.0	100.0	8.0	0
+464	RhyperiorRhyperior	GroundGround	RockRock	230.0	280.0	260.0	110.0	110.0	80.0	8.0	0
+465	TangrowthTangrowth	GrassGrass		200.0	200.0	250.0	220.0	100.0	100.0	8.0	0
+466	ElectivireElectivire	ElectricElectric		150.0	246.0	134.0	190.0	170.0	190.0	8.0	0
+467	MagmortarMagmortar	FireFire		150.0	190.0	134.0	250.0	190.0	166.0	8.0	0
+468	TogekissTogekiss	FairyFairy	FlyingFlying	170.0	100.0	190.0	240.0	230.0	160.0	8.0	0
+469	YanmegaYanmega	BugBug	FlyingFlying	172.0	152.0	172.0	232.0	112.0	190.0	8.0	0
+470	LeafeonLeafeon	GrassGrass		130.0	220.0	260.0	120.0	130.0	190.0	8.0	0
+471	GlaceonGlaceon	IceIce		130.0	120.0	220.0	260.0	190.0	130.0	8.0	0
+472	GliscorGliscor	GroundGround	FlyingFlying	150.0	190.0	250.0	90.0	150.0	190.0	8.0	0
+473	MamoswineMamoswine	IceIce	GroundGround	220.0	260.0	160.0	140.0	120.0	160.0	8.0	0
+474	Porygon-ZPorygon-Z	NormalNormal		170.0	160.0	140.0	270.0	150.0	180.0	8.0	0
+475	GalladeGallade	PsychicPsychic	FightingFighting	136.0	250.0	130.0	130.0	230.0	160.0	8.0	0
+475	GalladeGalladeMega Gallade	PsychicPsychic	FightingFighting	136.0	290.0	160.0	130.0	230.0	190.0	8.0	0
+475	GalladeMega GalladeGallade	PsychicPsychic	FightingFighting	136.0	290.0	160.0	130.0	230.0	190.0	8.0	0
+475	GalladeMega GalladeGalladeMega Gallade	PsychicPsychic	FightingFighting	136.0	330.0	190.0	130.0	230.0	220.0	8.0	0
+476	ProbopassProbopass	RockRock	SteelSteel	120.0	110.0	290.0	150.0	300.0	80.0	8.0	0
+477	DusknoirDusknoir	GhostGhost		90.0	200.0	270.0	130.0	270.0	90.0	8.0	0
+478	FroslassFroslass	IceIce	GhostGhost	140.0	160.0	140.0	160.0	140.0	220.0	8.0	0
+479	RotomMow RotomRotom	ElectricElectric	GrassGhost	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomMow RotomRotomHeat Rotom	ElectricElectric	GrassFire	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomMow RotomRotomWash Rotom	ElectricElectric	GrassWater	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomMow RotomRotomFrost Rotom	ElectricElectric	GrassIce	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomMow RotomRotomFan Rotom	ElectricElectric	GrassFlying	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomMow RotomRotomMow Rotom	ElectricElectric	GrassGrass	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomHeat RotomRotom	ElectricElectric	FireGhost	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomHeat RotomRotomHeat Rotom	ElectricElectric	FireFire	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomHeat RotomRotomWash Rotom	ElectricElectric	FireWater	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomHeat RotomRotomFrost Rotom	ElectricElectric	FireIce	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomHeat RotomRotomFan Rotom	ElectricElectric	FireFlying	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomHeat RotomRotomMow Rotom	ElectricElectric	FireGrass	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomRotom	ElectricElectric	GhostGhost	100.0	100.0	154.0	190.0	154.0	182.0	8.0	0
+479	RotomRotomHeat Rotom	ElectricElectric	GhostFire	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomRotomWash Rotom	ElectricElectric	GhostWater	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomRotomFrost Rotom	ElectricElectric	GhostIce	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomRotomFan Rotom	ElectricElectric	GhostFlying	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomRotomMow Rotom	ElectricElectric	GhostGrass	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomFrost RotomRotom	ElectricElectric	IceGhost	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomFrost RotomRotomHeat Rotom	ElectricElectric	IceFire	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomFrost RotomRotomWash Rotom	ElectricElectric	IceWater	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomFrost RotomRotomFrost Rotom	ElectricElectric	IceIce	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomFrost RotomRotomFan Rotom	ElectricElectric	IceFlying	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomFrost RotomRotomMow Rotom	ElectricElectric	IceGrass	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomFan RotomRotom	ElectricElectric	FlyingGhost	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomFan RotomRotomHeat Rotom	ElectricElectric	FlyingFire	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomFan RotomRotomWash Rotom	ElectricElectric	FlyingWater	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomFan RotomRotomFrost Rotom	ElectricElectric	FlyingIce	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomFan RotomRotomFan Rotom	ElectricElectric	FlyingFlying	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomFan RotomRotomMow Rotom	ElectricElectric	FlyingGrass	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomWash RotomRotom	ElectricElectric	WaterGhost	100.0	115.0	184.0	200.0	184.0	177.0	8.0	0
+479	RotomWash RotomRotomHeat Rotom	ElectricElectric	WaterFire	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomWash RotomRotomWash Rotom	ElectricElectric	WaterWater	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomWash RotomRotomFrost Rotom	ElectricElectric	WaterIce	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomWash RotomRotomFan Rotom	ElectricElectric	WaterFlying	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+479	RotomWash RotomRotomMow Rotom	ElectricElectric	WaterGrass	100.0	130.0	214.0	210.0	214.0	172.0	8.0	0
+480	UxieUxie	PsychicPsychic		150.0	150.0	260.0	150.0	260.0	190.0	8.0	2
+481	MespritMesprit	PsychicPsychic		160.0	210.0	210.0	210.0	210.0	160.0	8.0	2
+482	AzelfAzelf	PsychicPsychic		150.0	250.0	140.0	250.0	140.0	230.0	8.0	2
+483	DialgaDialga	SteelSteel	DragonDragon	200.0	240.0	240.0	300.0	200.0	180.0	8.0	2
+484	PalkiaPalkia	WaterWater	DragonDragon	180.0	240.0	200.0	300.0	240.0	200.0	8.0	2
+485	HeatranHeatran	FireFire	SteelSteel	182.0	180.0	212.0	260.0	212.0	154.0	8.0	2
+486	RegigigasRegigigas	NormalNormal		220.0	320.0	220.0	160.0	220.0	200.0	8.0	2
+487	GiratinaOrigin FormeGiratinaAltered Forme	GhostGhost	DragonDragon	300.0	220.0	220.0	220.0	220.0	180.0	8.0	2
+487	GiratinaOrigin FormeGiratinaOrigin Forme	GhostGhost	DragonDragon	300.0	240.0	200.0	240.0	200.0	180.0	8.0	2
+487	GiratinaAltered FormeGiratinaAltered Forme	GhostGhost	DragonDragon	300.0	200.0	240.0	200.0	240.0	180.0	8.0	2
+487	GiratinaAltered FormeGiratinaOrigin Forme	GhostGhost	DragonDragon	300.0	220.0	220.0	220.0	220.0	180.0	8.0	2
+488	CresseliaCresselia	PsychicPsychic		240.0	140.0	240.0	150.0	260.0	170.0	8.0	0
+489	PhionePhione	WaterWater		160.0	160.0	160.0	160.0	160.0	160.0	8.0	0
+490	ManaphyManaphy	WaterWater		200.0	200.0	200.0	200.0	200.0	200.0	8.0	0
+491	DarkraiDarkrai	DarkDark		140.0	180.0	180.0	270.0	180.0	250.0	8.0	2
+492	ShayminSky FormeShayminLand Forme	GrassGrass		200.0	203.0	175.0	220.0	175.0	227.0	8.0	2
+492	ShayminSky FormeShayminSky Forme	GrassGrass	FlyingFlying	200.0	206.0	150.0	240.0	150.0	254.0	8.0	2
+492	ShayminLand FormeShayminLand Forme	GrassGrass		200.0	200.0	200.0	200.0	200.0	200.0	8.0	2
+492	ShayminLand FormeShayminSky Forme	GrassGrass		200.0	203.0	175.0	220.0	175.0	227.0	8.0	2
+493	ArceusArceus	NormalNormal		240.0	240.0	240.0	240.0	240.0	240.0	8.0	2
+494	VictiniVictini	PsychicPsychic	FireFire	200.0	200.0	200.0	200.0	200.0	200.0	10.0	2
+495	SnivySnivy	GrassGrass		90.0	90.0	110.0	90.0	110.0	126.0	10.0	0
+496	ServineServine	GrassGrass		120.0	120.0	150.0	120.0	150.0	166.0	10.0	0
+497	SerperiorSerperior	GrassGrass		150.0	150.0	190.0	150.0	190.0	226.0	10.0	0
+498	TepigTepig	FireFire		130.0	126.0	90.0	90.0	90.0	90.0	10.0	0
+499	PignitePignite	FireFire	FightingFighting	180.0	186.0	110.0	140.0	110.0	110.0	10.0	0
+500	EmboarEmboar	FireFire	FightingFighting	220.0	246.0	130.0	200.0	130.0	130.0	10.0	0
+501	OshawottOshawott	WaterWater		110.0	110.0	90.0	126.0	90.0	90.0	10.0	0
+502	DewottDewott	WaterWater		150.0	150.0	120.0	166.0	120.0	120.0	10.0	0
+503	SamurottSamurott	WaterWater		190.0	200.0	170.0	216.0	140.0	140.0	10.0	0
+504	PatratPatrat	NormalNormal		90.0	110.0	78.0	70.0	78.0	84.0	10.0	0
+505	WatchogWatchog	NormalNormal		120.0	170.0	138.0	120.0	138.0	154.0	10.0	0
+506	LillipupLillipup	NormalNormal		90.0	120.0	90.0	50.0	90.0	110.0	10.0	0
+507	HerdierHerdier	NormalNormal		130.0	160.0	130.0	70.0	130.0	120.0	10.0	0
+508	StoutlandStoutland	NormalNormal		170.0	220.0	180.0	90.0	180.0	160.0	10.0	0
+509	PurrloinPurrloin	DarkDark		82.0	100.0	74.0	100.0	74.0	132.0	10.0	0
+510	LiepardLiepard	DarkDark		128.0	176.0	100.0	176.0	100.0	212.0	10.0	0
+511	PansagePansage	GrassGrass		100.0	106.0	96.0	106.0	96.0	128.0	10.0	0
+512	SimisageSimisage	GrassGrass		150.0	196.0	126.0	196.0	126.0	202.0	10.0	0
+513	PansearPansear	FireFire		100.0	106.0	96.0	106.0	96.0	128.0	10.0	0
+514	SimisearSimisear	FireFire		150.0	196.0	126.0	196.0	126.0	202.0	10.0	0
+515	PanpourPanpour	WaterWater		100.0	106.0	96.0	106.0	96.0	128.0	10.0	0
+516	SimipourSimipour	WaterWater		150.0	196.0	126.0	196.0	126.0	202.0	10.0	0
+517	MunnaMunna	PsychicPsychic		152.0	50.0	90.0	134.0	110.0	48.0	10.0	0
+518	MusharnaMusharna	PsychicPsychic		232.0	110.0	170.0	214.0	190.0	58.0	10.0	0
+519	PidovePidove	NormalNormal	FlyingFlying	100.0	110.0	100.0	72.0	60.0	86.0	10.0	0
+520	TranquillTranquill	NormalNormal	FlyingFlying	124.0	154.0	124.0	100.0	84.0	130.0	10.0	0
+521	UnfezantUnfezant	NormalNormal	FlyingFlying	160.0	230.0	160.0	130.0	110.0	186.0	10.0	0
+522	BlitzleBlitzle	ElectricElectric		90.0	120.0	64.0	100.0	64.0	152.0	10.0	0
+523	ZebstrikaZebstrika	ElectricElectric		150.0	200.0	126.0	160.0	126.0	232.0	10.0	0
+524	RoggenrolaRoggenrola	RockRock		110.0	150.0	170.0	50.0	50.0	30.0	10.0	0
+525	BoldoreBoldore	RockRock		140.0	210.0	210.0	100.0	80.0	40.0	10.0	0
+526	GigalithGigalith	RockRock		170.0	270.0	260.0	120.0	160.0	50.0	10.0	0
+527	WoobatWoobat	PsychicPsychic	FlyingFlying	110.0	90.0	86.0	110.0	86.0	144.0	10.0	0
+528	SwoobatSwoobat	PsychicPsychic	FlyingFlying	134.0	114.0	110.0	154.0	110.0	228.0	10.0	0
+529	DrilburDrilbur	GroundGround		120.0	170.0	80.0	60.0	90.0	136.0	10.0	0
+530	ExcadrillExcadrill	GroundGround	SteelSteel	220.0	270.0	120.0	100.0	130.0	176.0	10.0	0
+531	AudinoMega AudinoAudino	NormalNormal		206.0	120.0	212.0	140.0	212.0	100.0	10.0	0
+531	AudinoMega AudinoAudinoMega Audino	NormalNormal	FairyFairy	206.0	120.0	252.0	160.0	252.0	100.0	10.0	0
+531	AudinoAudino	NormalNormal		206.0	120.0	172.0	120.0	172.0	100.0	10.0	0
+531	AudinoAudinoMega Audino	NormalNormal		206.0	120.0	212.0	140.0	212.0	100.0	10.0	0
+532	TimburrTimburr	FightingFighting		150.0	160.0	110.0	50.0	70.0	70.0	10.0	0
+533	GurdurrGurdurr	FightingFighting		170.0	210.0	170.0	80.0	100.0	80.0	10.0	0
+534	ConkeldurrConkeldurr	FightingFighting		210.0	280.0	190.0	110.0	130.0	90.0	10.0	0
+535	TympoleTympole	WaterWater		100.0	100.0	80.0	100.0	80.0	128.0	10.0	0
+536	PalpitoadPalpitoad	WaterWater	GroundGround	150.0	130.0	110.0	130.0	110.0	138.0	10.0	0
+537	SeismitoadSeismitoad	WaterWater	GroundGround	210.0	190.0	150.0	170.0	150.0	148.0	10.0	0
+538	ThrohThroh	FightingFighting		240.0	200.0	170.0	60.0	170.0	90.0	10.0	0
+539	SawkSawk	FightingFighting		150.0	250.0	150.0	60.0	150.0	170.0	10.0	0
+540	SewaddleSewaddle	BugBug	GrassGrass	90.0	106.0	140.0	80.0	120.0	84.0	10.0	0
+541	SwadloonSwadloon	BugBug	GrassGrass	110.0	126.0	180.0	100.0	160.0	84.0	10.0	0
+542	LeavannyLeavanny	BugBug	GrassGrass	150.0	206.0	160.0	140.0	160.0	184.0	10.0	0
+543	VenipedeVenipede	BugBug	PoisonPoison	60.0	90.0	118.0	60.0	78.0	114.0	10.0	0
+544	WhirlipedeWhirlipede	BugBug	PoisonPoison	80.0	110.0	198.0	80.0	158.0	94.0	10.0	0
+545	ScolipedeScolipede	BugBug	PoisonPoison	120.0	200.0	178.0	110.0	138.0	224.0	10.0	0
+546	CottoneeCottonee	GrassGrass	FairyFairy	80.0	54.0	120.0	74.0	100.0	132.0	10.0	0
+547	WhimsicottWhimsicott	GrassGrass	FairyFairy	120.0	134.0	170.0	154.0	150.0	232.0	10.0	0
+548	PetililPetilil	GrassGrass		90.0	70.0	100.0	140.0	100.0	60.0	10.0	0
+549	LilligantLilligant	GrassGrass		140.0	120.0	150.0	220.0	150.0	180.0	10.0	0
+550	BasculinBasculin	WaterWater		140.0	184.0	130.0	160.0	110.0	196.0	10.0	0
+551	SandileSandile	GroundGround	DarkDark	100.0	144.0	70.0	70.0	70.0	130.0	10.0	0
+552	KrokorokKrokorok	GroundGround	DarkDark	120.0	164.0	90.0	90.0	90.0	148.0	10.0	0
+553	KrookodileKrookodile	GroundGround	DarkDark	190.0	234.0	160.0	130.0	140.0	184.0	10.0	0
+554	DarumakaDarumaka	FireFire		140.0	180.0	90.0	30.0	90.0	100.0	10.0	0
+555	DarmanitanStandard ModeDarmanitanStandard Mode	FireFire		210.0	280.0	110.0	60.0	110.0	190.0	10.0	0
+555	DarmanitanStandard ModeDarmanitanZen Mode	FireFire		210.0	170.0	160.0	170.0	160.0	150.0	10.0	0
+555	DarmanitanZen ModeDarmanitanStandard Mode	FireFire		210.0	170.0	160.0	170.0	160.0	150.0	10.0	0
+555	DarmanitanZen ModeDarmanitanZen Mode	FireFire	PsychicPsychic	210.0	60.0	210.0	280.0	210.0	110.0	10.0	0
+556	MaractusMaractus	GrassGrass		150.0	172.0	134.0	212.0	134.0	120.0	10.0	0
+557	DwebbleDwebble	BugBug	RockRock	100.0	130.0	170.0	70.0	70.0	110.0	10.0	0
+558	CrustleCrustle	BugBug	RockRock	140.0	190.0	250.0	130.0	150.0	90.0	10.0	0
+559	ScraggyScraggy	DarkDark	FightingFighting	100.0	150.0	140.0	70.0	140.0	96.0	10.0	0
+560	ScraftyScrafty	DarkDark	FightingFighting	130.0	180.0	230.0	90.0	230.0	116.0	10.0	0
+561	SigilyphSigilyph	PsychicPsychic	FlyingFlying	144.0	116.0	160.0	206.0	160.0	194.0	10.0	0
+562	YamaskYamask	GhostGhost		76.0	60.0	170.0	110.0	130.0	60.0	10.0	0
+563	CofagrigusCofagrigus	GhostGhost		116.0	100.0	290.0	190.0	210.0	60.0	10.0	0
+564	TirtougaTirtouga	WaterWater	RockRock	108.0	156.0	206.0	106.0	90.0	44.0	10.0	0
+565	CarracostaCarracosta	WaterWater	RockRock	148.0	216.0	266.0	166.0	130.0	64.0	10.0	0
+566	ArchenArchen	RockRock	FlyingFlying	110.0	224.0	90.0	148.0	90.0	140.0	10.0	0
+567	ArcheopsArcheops	RockRock	FlyingFlying	150.0	280.0	130.0	224.0	130.0	220.0	10.0	0
+568	TrubbishTrubbish	PoisonPoison		100.0	100.0	124.0	80.0	124.0	130.0	10.0	0
+569	GarbodorGarbodor	PoisonPoison		160.0	190.0	164.0	120.0	164.0	150.0	10.0	0
+570	ZoruaZorua	DarkDark		80.0	130.0	80.0	160.0	80.0	130.0	10.0	0
+571	ZoroarkZoroark	DarkDark		120.0	210.0	120.0	240.0	120.0	210.0	10.0	0
+572	MinccinoMinccino	NormalNormal		110.0	100.0	80.0	80.0	80.0	150.0	10.0	0
+573	CinccinoCinccino	NormalNormal		150.0	190.0	120.0	130.0	120.0	230.0	10.0	0
+574	GothitaGothita	PsychicPsychic		90.0	60.0	100.0	110.0	130.0	90.0	10.0	0
+575	GothoritaGothorita	PsychicPsychic		120.0	90.0	140.0	150.0	170.0	110.0	10.0	0
+576	GothitelleGothitelle	PsychicPsychic		140.0	110.0	190.0	190.0	220.0	130.0	10.0	0
+577	SolosisSolosis	PsychicPsychic		90.0	60.0	80.0	210.0	100.0	40.0	10.0	0
+578	DuosionDuosion	PsychicPsychic		130.0	80.0	100.0	250.0	120.0	60.0	10.0	0
+579	ReuniclusReuniclus	PsychicPsychic		220.0	130.0	150.0	250.0	170.0	60.0	10.0	0
+580	DucklettDucklett	WaterWater	FlyingFlying	124.0	88.0	100.0	88.0	100.0	110.0	10.0	0
+581	SwannaSwanna	WaterWater	FlyingFlying	150.0	174.0	126.0	174.0	126.0	196.0	10.0	0
+582	VanilliteVanillite	IceIce		72.0	100.0	100.0	130.0	120.0	88.0	10.0	0
+583	VanillishVanillish	IceIce		102.0	130.0	130.0	160.0	150.0	118.0	10.0	0
+584	VanilluxeVanilluxe	IceIce		142.0	190.0	170.0	220.0	190.0	158.0	10.0	0
+585	DeerlingDeerling	NormalNormal	GrassGrass	120.0	120.0	100.0	80.0	100.0	150.0	10.0	0
+586	SawsbuckSawsbuck	NormalNormal	GrassGrass	160.0	200.0	140.0	120.0	140.0	190.0	10.0	0
+587	EmolgaEmolga	ElectricElectric	FlyingFlying	110.0	150.0	120.0	150.0	120.0	206.0	10.0	0
+588	KarrablastKarrablast	BugBug		100.0	150.0	90.0	80.0	90.0	120.0	10.0	0
+589	EscavalierEscavalier	BugBug	SteelSteel	140.0	270.0	210.0	120.0	210.0	40.0	10.0	0
+590	FoongusFoongus	GrassGrass	PoisonPoison	138.0	110.0	90.0	110.0	110.0	30.0	10.0	0
+591	AmoongussAmoonguss	GrassGrass	PoisonPoison	228.0	170.0	140.0	170.0	160.0	60.0	10.0	0
+592	FrillishFrillish	WaterWater	GhostGhost	110.0	80.0	100.0	130.0	170.0	80.0	10.0	0
+593	JellicentJellicent	WaterWater	GhostGhost	200.0	120.0	140.0	170.0	210.0	120.0	10.0	0
+594	AlomomolaAlomomola	WaterWater		330.0	150.0	160.0	80.0	90.0	130.0	10.0	0
+595	JoltikJoltik	BugBug	ElectricElectric	100.0	94.0	100.0	114.0	100.0	130.0	10.0	0
+596	GalvantulaGalvantula	BugBug	ElectricElectric	140.0	154.0	120.0	194.0	120.0	216.0	10.0	0
+597	FerroseedFerroseed	GrassGrass	SteelSteel	88.0	100.0	182.0	48.0	172.0	20.0	10.0	0
+598	FerrothornFerrothorn	GrassGrass	SteelSteel	148.0	188.0	262.0	108.0	232.0	40.0	10.0	0
+599	KlinkKlink	SteelSteel		80.0	110.0	140.0	90.0	120.0	60.0	10.0	0
+600	KlangKlang	SteelSteel		120.0	160.0	190.0	140.0	170.0	100.0	10.0	0
+601	KlinklangKlinklang	SteelSteel		120.0	200.0	230.0	140.0	170.0	180.0	10.0	0
+602	TynamoTynamo	ElectricElectric		70.0	110.0	80.0	90.0	80.0	120.0	10.0	0
+603	EelektrikEelektrik	ElectricElectric		130.0	170.0	140.0	150.0	140.0	80.0	10.0	0
+604	EelektrossEelektross	ElectricElectric		170.0	230.0	160.0	210.0	160.0	100.0	10.0	0
+605	ElgyemElgyem	PsychicPsychic		110.0	110.0	110.0	170.0	110.0	60.0	10.0	0
+606	BeheeyemBeheeyem	PsychicPsychic		150.0	150.0	150.0	250.0	190.0	80.0	10.0	0
+607	LitwickLitwick	GhostGhost	FireFire	100.0	60.0	110.0	130.0	110.0	40.0	10.0	0
+608	LampentLampent	GhostGhost	FireFire	120.0	80.0	120.0	190.0	120.0	110.0	10.0	0
+609	ChandelureChandelure	GhostGhost	FireFire	120.0	110.0	180.0	290.0	180.0	160.0	10.0	0
+610	AxewAxew	DragonDragon		92.0	174.0	120.0	60.0	80.0	114.0	10.0	0
+611	FraxureFraxure	DragonDragon		132.0	234.0	140.0	80.0	100.0	134.0	10.0	0
+612	HaxorusHaxorus	DragonDragon		152.0	294.0	180.0	120.0	140.0	194.0	10.0	0
+613	CubchooCubchoo	IceIce		110.0	140.0	80.0	120.0	80.0	80.0	10.0	0
+614	BearticBeartic	IceIce		190.0	220.0	160.0	140.0	160.0	100.0	10.0	0
+615	CryogonalCryogonal	IceIce		140.0	100.0	60.0	190.0	270.0	210.0	10.0	0
+616	ShelmetShelmet	BugBug		100.0	80.0	170.0	80.0	130.0	50.0	10.0	0
+617	AccelgorAccelgor	BugBug		160.0	140.0	80.0	200.0	120.0	290.0	10.0	0
+618	StunfiskStunfisk	GroundGround	ElectricElectric	218.0	132.0	168.0	162.0	198.0	64.0	10.0	0
+619	MienfooMienfoo	FightingFighting		90.0	170.0	100.0	110.0	100.0	130.0	10.0	0
+620	MienshaoMienshao	FightingFighting		130.0	250.0	120.0	190.0	120.0	210.0	10.0	0
+621	DruddigonDruddigon	DragonDragon		154.0	240.0	180.0	120.0	180.0	96.0	10.0	0
+622	GolettGolett	GroundGround	GhostGhost	118.0	148.0	100.0	70.0	100.0	70.0	10.0	0
+623	GolurkGolurk	GroundGround	GhostGhost	178.0	248.0	160.0	110.0	160.0	110.0	10.0	0
+624	PawniardPawniard	DarkDark	SteelSteel	90.0	170.0	140.0	80.0	80.0	120.0	10.0	0
+625	BisharpBisharp	DarkDark	SteelSteel	130.0	250.0	200.0	120.0	140.0	140.0	10.0	0
+626	BouffalantBouffalant	NormalNormal		190.0	220.0	190.0	80.0	190.0	110.0	10.0	0
+627	RuffletRufflet	NormalNormal	FlyingFlying	140.0	166.0	100.0	74.0	100.0	120.0	10.0	0
+628	BraviaryBraviary	NormalNormal	FlyingFlying	200.0	246.0	150.0	114.0	150.0	160.0	10.0	0
+629	VullabyVullaby	DarkDark	FlyingFlying	140.0	110.0	150.0	90.0	130.0	120.0	10.0	0
+630	MandibuzzMandibuzz	DarkDark	FlyingFlying	220.0	130.0	210.0	110.0	190.0	160.0	10.0	0
+631	HeatmorHeatmor	FireFire		170.0	194.0	132.0	210.0	132.0	130.0	10.0	0
+632	DurantDurant	BugBug	SteelSteel	116.0	218.0	224.0	96.0	96.0	218.0	10.0	0
+633	DeinoDeino	DarkDark	DragonDragon	104.0	130.0	100.0	90.0	100.0	76.0	10.0	0
+634	ZweilousZweilous	DarkDark	DragonDragon	144.0	170.0	140.0	130.0	140.0	116.0	10.0	0
+635	HydreigonHydreigon	DarkDark	DragonDragon	184.0	210.0	180.0	250.0	180.0	196.0	10.0	0
+636	LarvestaLarvesta	BugBug	FireFire	110.0	170.0	110.0	100.0	110.0	120.0	10.0	0
+637	VolcaronaVolcarona	BugBug	FireFire	170.0	120.0	130.0	270.0	210.0	200.0	10.0	0
+638	CobalionCobalion	SteelSteel	FightingFighting	182.0	180.0	258.0	180.0	144.0	216.0	10.0	2
+639	TerrakionTerrakion	RockRock	FightingFighting	182.0	258.0	180.0	144.0	180.0	216.0	10.0	2
+640	VirizionVirizion	GrassGrass	FightingFighting	182.0	180.0	144.0	180.0	258.0	216.0	10.0	2
+641	TornadusIncarnate FormeTornadusIncarnate Forme	FlyingFlying		158.0	230.0	140.0	250.0	160.0	222.0	10.0	2
+641	TornadusIncarnate FormeTornadusTherian Forme	FlyingFlying		158.0	215.0	150.0	235.0	170.0	232.0	10.0	2
+641	TornadusTherian FormeTornadusIncarnate Forme	FlyingFlying		158.0	215.0	150.0	235.0	170.0	232.0	10.0	2
+641	TornadusTherian FormeTornadusTherian Forme	FlyingFlying		158.0	200.0	160.0	220.0	180.0	242.0	10.0	2
+642	ThundurusIncarnate FormeThundurusIncarnate Forme	ElectricElectric	FlyingFlying	158.0	230.0	140.0	250.0	160.0	222.0	10.0	2
+642	ThundurusIncarnate FormeThundurusTherian Forme	ElectricElectric	FlyingFlying	158.0	220.0	140.0	270.0	160.0	212.0	10.0	2
+642	ThundurusTherian FormeThundurusIncarnate Forme	ElectricElectric	FlyingFlying	158.0	220.0	140.0	270.0	160.0	212.0	10.0	2
+642	ThundurusTherian FormeThundurusTherian Forme	ElectricElectric	FlyingFlying	158.0	210.0	140.0	290.0	160.0	202.0	10.0	2
+643	ReshiramReshiram	DragonDragon	FireFire	200.0	240.0	200.0	300.0	240.0	180.0	10.0	2
+644	ZekromZekrom	DragonDragon	ElectricElectric	200.0	300.0	240.0	240.0	200.0	180.0	10.0	2
+645	LandorusTherian FormeLandorusIncarnate Forme	GroundGround	FlyingFlying	178.0	270.0	180.0	220.0	160.0	192.0	10.0	2
+645	LandorusTherian FormeLandorusTherian Forme	GroundGround	FlyingFlying	178.0	290.0	180.0	210.0	160.0	182.0	10.0	2
+645	LandorusIncarnate FormeLandorusIncarnate Forme	GroundGround	FlyingFlying	178.0	250.0	180.0	230.0	160.0	202.0	10.0	2
+645	LandorusIncarnate FormeLandorusTherian Forme	GroundGround	FlyingFlying	178.0	270.0	180.0	220.0	160.0	192.0	10.0	2
+646	KyuremKyurem	DragonDragon	IceIce	250.0	260.0	180.0	260.0	180.0	190.0	10.0	2
+646	KyuremKyuremBlack Kyurem	DragonDragon	IceIce	250.0	300.0	190.0	250.0	180.0	190.0	10.0	2
+646	KyuremKyuremWhite Kyurem	DragonDragon	IceIce	250.0	250.0	180.0	300.0	190.0	190.0	10.0	2
+646	KyuremBlack KyuremKyurem	DragonDragon	IceIce	250.0	300.0	190.0	250.0	180.0	190.0	10.0	2
+646	KyuremBlack KyuremKyuremBlack Kyurem	DragonDragon	IceIce	250.0	340.0	200.0	240.0	180.0	190.0	10.0	2
+646	KyuremBlack KyuremKyuremWhite Kyurem	DragonDragon	IceIce	250.0	290.0	190.0	290.0	190.0	190.0	10.0	2
+646	KyuremWhite KyuremKyurem	DragonDragon	IceIce	250.0	250.0	180.0	300.0	190.0	190.0	10.0	2
+646	KyuremWhite KyuremKyuremBlack Kyurem	DragonDragon	IceIce	250.0	290.0	190.0	290.0	190.0	190.0	10.0	2
+646	KyuremWhite KyuremKyuremWhite Kyurem	DragonDragon	IceIce	250.0	240.0	180.0	340.0	200.0	190.0	10.0	2
+647	KeldeoResolute FormeKeldeoOrdinary Forme	WaterWater	FightingFighting	182.0	144.0	180.0	258.0	180.0	216.0	10.0	0
+647	KeldeoResolute FormeKeldeoResolute Forme	WaterWater	FightingFighting	182.0	144.0	180.0	258.0	180.0	216.0	10.0	0
+647	KeldeoOrdinary FormeKeldeoOrdinary Forme	WaterWater	FightingFighting	182.0	144.0	180.0	258.0	180.0	216.0	10.0	0
+647	KeldeoOrdinary FormeKeldeoResolute Forme	WaterWater	FightingFighting	182.0	144.0	180.0	258.0	180.0	216.0	10.0	0
+648	MeloettaAria FormeMeloettaAria Forme	NormalNormal	PsychicPsychic	200.0	154.0	154.0	256.0	256.0	180.0	10.0	0
+648	MeloettaAria FormeMeloettaPirouette Forme	NormalNormal	PsychicFighting	200.0	205.0	167.0	205.0	205.0	218.0	10.0	0
+648	MeloettaPirouette FormeMeloettaAria Forme	NormalNormal	FightingPsychic	200.0	205.0	167.0	205.0	205.0	218.0	10.0	0
+648	MeloettaPirouette FormeMeloettaPirouette Forme	NormalNormal	FightingFighting	200.0	256.0	180.0	154.0	154.0	256.0	10.0	0
+649	GenesectGenesect	BugBug	SteelSteel	142.0	240.0	190.0	240.0	190.0	198.0	10.0	0
+650	ChespinChespin	GrassGrass		112.0	122.0	130.0	96.0	90.0	76.0	12.0	0
+651	QuilladinQuilladin	GrassGrass		122.0	156.0	190.0	112.0	116.0	114.0	12.0	0
+652	ChesnaughtChesnaught	GrassGrass	FightingFighting	176.0	214.0	244.0	148.0	150.0	128.0	12.0	0
+653	FennekinFennekin	FireFire		80.0	90.0	80.0	124.0	120.0	120.0	12.0	0
+654	BraixenBraixen	FireFire		118.0	118.0	116.0	180.0	140.0	146.0	12.0	0
+655	DelphoxDelphox	FireFire	PsychicPsychic	150.0	138.0	144.0	228.0	200.0	208.0	12.0	0
+656	FroakieFroakie	WaterWater		82.0	112.0	80.0	124.0	88.0	142.0	12.0	0
+657	FrogadierFrogadier	WaterWater		108.0	126.0	104.0	166.0	112.0	194.0	12.0	0
+658	GreninjaGreninja	WaterWater	DarkDark	144.0	190.0	134.0	206.0	142.0	244.0	12.0	0
+659	BunnelbyBunnelby	NormalNormal		76.0	72.0	76.0	64.0	72.0	114.0	12.0	0
+660	DiggersbyDiggersby	NormalNormal	GroundGround	170.0	112.0	154.0	100.0	154.0	156.0	12.0	0
+661	FletchlingFletchling	NormalNormal	FlyingFlying	90.0	100.0	86.0	80.0	76.0	124.0	12.0	0
+662	FletchinderFletchinder	FireFire	FlyingFlying	124.0	146.0	110.0	112.0	104.0	168.0	12.0	0
+663	TalonflameTalonflame	FireFire	FlyingFlying	156.0	162.0	142.0	148.0	138.0	252.0	12.0	0
+664	ScatterbugScatterbug	BugBug		76.0	70.0	80.0	54.0	50.0	70.0	12.0	0
+665	SpewpaSpewpa	BugBug		90.0	44.0	120.0	54.0	60.0	58.0	12.0	0
+666	VivillonVivillon	BugBug	FlyingFlying	160.0	104.0	100.0	180.0	100.0	178.0	12.0	0
+667	LitleoLitleo	FireFire	NormalNormal	124.0	100.0	116.0	146.0	108.0	144.0	12.0	0
+668	PyroarPyroar	FireFire	NormalNormal	172.0	136.0	144.0	218.0	132.0	212.0	12.0	0
+669	FlabÃ©bÃ©FlabÃ©bÃ©	FairyFairy		88.0	76.0	78.0	122.0	158.0	84.0	12.0	0
+670	FloetteFloette	FairyFairy		108.0	90.0	94.0	150.0	196.0	104.0	12.0	0
+671	FlorgesFlorges	FairyFairy		156.0	130.0	136.0	224.0	308.0	150.0	12.0	0
+672	SkiddoSkiddo	GrassGrass		132.0	130.0	96.0	124.0	114.0	104.0	12.0	0
+673	GogoatGogoat	GrassGrass		246.0	200.0	124.0	194.0	162.0	136.0	12.0	0
+674	PanchamPancham	FightingFighting		134.0	164.0	124.0	92.0	96.0	86.0	12.0	0
+675	PangoroPangoro	FightingFighting	DarkDark	190.0	248.0	156.0	138.0	142.0	116.0	12.0	0
+676	FurfrouFurfrou	NormalNormal		150.0	160.0	120.0	130.0	180.0	204.0	12.0	0
+677	EspurrEspurr	PsychicPsychic		124.0	96.0	108.0	126.0	120.0	136.0	12.0	0
+678	MeowsticMaleMeowsticMale	PsychicPsychic		148.0	96.0	152.0	166.0	162.0	208.0	12.0	0
+678	MeowsticMaleMeowsticFemale	PsychicPsychic		148.0	96.0	152.0	166.0	162.0	208.0	12.0	0
+678	MeowsticFemaleMeowsticMale	PsychicPsychic		148.0	96.0	152.0	166.0	162.0	208.0	12.0	0
+678	MeowsticFemaleMeowsticFemale	PsychicPsychic		148.0	96.0	152.0	166.0	162.0	208.0	12.0	0
+679	HonedgeHonedge	SteelSteel	GhostGhost	90.0	160.0	200.0	70.0	74.0	56.0	12.0	0
+680	DoubladeDoublade	SteelSteel	GhostGhost	118.0	220.0	300.0	90.0	98.0	70.0	12.0	0
+681	AegislashBlade FormeAegislashBlade Forme	SteelSteel	GhostGhost	120.0	300.0	100.0	300.0	100.0	120.0	12.0	0
+681	AegislashBlade FormeAegislashShield Forme	SteelSteel	GhostGhost	120.0	200.0	200.0	200.0	200.0	120.0	12.0	0
+681	AegislashShield FormeAegislashBlade Forme	SteelSteel	GhostGhost	120.0	200.0	200.0	200.0	200.0	120.0	12.0	0
+681	AegislashShield FormeAegislashShield Forme	SteelSteel	GhostGhost	120.0	100.0	300.0	100.0	300.0	120.0	12.0	0
+682	SpritzeeSpritzee	FairyFairy		156.0	104.0	120.0	126.0	130.0	46.0	12.0	0
+683	AromatisseAromatisse	FairyFairy		202.0	144.0	144.0	198.0	178.0	58.0	12.0	0
+684	SwirlixSwirlix	FairyFairy		124.0	96.0	132.0	118.0	114.0	98.0	12.0	0
+685	SlurpuffSlurpuff	FairyFairy		164.0	160.0	172.0	170.0	150.0	144.0	12.0	0
+686	InkayInkay	DarkDark	PsychicPsychic	106.0	108.0	106.0	74.0	92.0	90.0	12.0	0
+687	MalamarMalamar	DarkDark	PsychicPsychic	172.0	184.0	176.0	136.0	150.0	146.0	12.0	0
+688	BinacleBinacle	RockRock	WaterWater	84.0	104.0	134.0	78.0	112.0	100.0	12.0	0
+689	BarbaracleBarbaracle	RockRock	WaterWater	144.0	210.0	230.0	108.0	172.0	136.0	12.0	0
+690	SkrelpSkrelp	PoisonPoison	WaterWater	100.0	120.0	120.0	120.0	120.0	60.0	12.0	0
+691	DragalgeDragalge	PoisonPoison	DragonDragon	130.0	150.0	180.0	194.0	246.0	88.0	12.0	0
+692	ClauncherClauncher	WaterWater		100.0	106.0	124.0	116.0	126.0	88.0	12.0	0
+693	ClawitzerClawitzer	WaterWater		142.0	146.0	176.0	240.0	178.0	118.0	12.0	0
+694	HelioptileHelioptile	ElectricElectric	NormalNormal	88.0	76.0	66.0	122.0	86.0	140.0	12.0	0
+695	HelioliskHeliolisk	ElectricElectric	NormalNormal	124.0	110.0	104.0	218.0	188.0	218.0	12.0	0
+696	TyruntTyrunt	RockRock	DragonDragon	116.0	178.0	154.0	90.0	90.0	96.0	12.0	0
+697	TyrantrumTyrantrum	RockRock	DragonDragon	164.0	242.0	238.0	138.0	118.0	142.0	12.0	0
+698	AmauraAmaura	RockRock	IceIce	154.0	118.0	100.0	134.0	126.0	92.0	12.0	0
+699	AurorusAurorus	RockRock	IceIce	246.0	154.0	144.0	198.0	184.0	116.0	12.0	0
+700	SylveonSylveon	FairyFairy		190.0	130.0	130.0	220.0	260.0	120.0	12.0	0
+701	HawluchaHawlucha	FightingFighting	FlyingFlying	156.0	184.0	150.0	148.0	126.0	236.0	12.0	0
+702	DedenneDedenne	ElectricElectric	FairyFairy	134.0	116.0	114.0	162.0	134.0	202.0	12.0	0
+703	CarbinkCarbink	RockRock	FairyFairy	100.0	100.0	300.0	100.0	300.0	100.0	12.0	0
+704	GoomyGoomy	DragonDragon		90.0	100.0	70.0	110.0	150.0	80.0	12.0	0
+705	SliggooSliggoo	DragonDragon		136.0	150.0	106.0	166.0	226.0	120.0	12.0	0
+706	GoodraGoodra	DragonDragon		180.0	200.0	140.0	220.0	300.0	160.0	12.0	0
+707	KlefkiKlefki	SteelSteel	FairyFairy	114.0	160.0	182.0	160.0	174.0	150.0	12.0	0
+708	PhantumpPhantump	GhostGhost	GrassGrass	86.0	140.0	96.0	100.0	120.0	76.0	12.0	0
+709	TrevenantTrevenant	GhostGhost	GrassGrass	170.0	220.0	152.0	130.0	164.0	112.0	12.0	0
+710	PumpkabooSmall SizePumpkabooSmall Size	GhostGhost	GrassGrass	88.0	132.0	140.0	88.0	110.0	112.0	12.0	0
+710	PumpkabooSmall SizePumpkabooAverage Size	GhostGhost	GrassGrass	93.0	132.0	140.0	88.0	110.0	107.0	12.0	0
+710	PumpkabooSmall SizePumpkabooLarge Size	GhostGhost	GrassGrass	98.0	132.0	140.0	88.0	110.0	102.0	12.0	0
+710	PumpkabooSmall SizePumpkabooSuper Size	GhostGhost	GrassGrass	103.0	132.0	140.0	88.0	110.0	97.0	12.0	0
+710	PumpkabooAverage SizePumpkabooSmall Size	GhostGhost	GrassGrass	93.0	132.0	140.0	88.0	110.0	107.0	12.0	0
+710	PumpkabooAverage SizePumpkabooAverage Size	GhostGhost	GrassGrass	98.0	132.0	140.0	88.0	110.0	102.0	12.0	0
+710	PumpkabooAverage SizePumpkabooLarge Size	GhostGhost	GrassGrass	103.0	132.0	140.0	88.0	110.0	97.0	12.0	0
+710	PumpkabooAverage SizePumpkabooSuper Size	GhostGhost	GrassGrass	108.0	132.0	140.0	88.0	110.0	92.0	12.0	0
+710	PumpkabooLarge SizePumpkabooSmall Size	GhostGhost	GrassGrass	98.0	132.0	140.0	88.0	110.0	102.0	12.0	0
+710	PumpkabooLarge SizePumpkabooAverage Size	GhostGhost	GrassGrass	103.0	132.0	140.0	88.0	110.0	97.0	12.0	0
+710	PumpkabooLarge SizePumpkabooLarge Size	GhostGhost	GrassGrass	108.0	132.0	140.0	88.0	110.0	92.0	12.0	0
+710	PumpkabooLarge SizePumpkabooSuper Size	GhostGhost	GrassGrass	113.0	132.0	140.0	88.0	110.0	87.0	12.0	0
+710	PumpkabooSuper SizePumpkabooSmall Size	GhostGhost	GrassGrass	103.0	132.0	140.0	88.0	110.0	97.0	12.0	0
+710	PumpkabooSuper SizePumpkabooAverage Size	GhostGhost	GrassGrass	108.0	132.0	140.0	88.0	110.0	92.0	12.0	0
+710	PumpkabooSuper SizePumpkabooLarge Size	GhostGhost	GrassGrass	113.0	132.0	140.0	88.0	110.0	87.0	12.0	0
+710	PumpkabooSuper SizePumpkabooSuper Size	GhostGhost	GrassGrass	118.0	132.0	140.0	88.0	110.0	82.0	12.0	0
+711	GourgeistLarge SizeGourgeistSmall Size	GhostGhost	GrassGrass	130.0	180.0	244.0	116.0	150.0	168.0	12.0	0
+711	GourgeistLarge SizeGourgeistAverage Size	GhostGhost	GrassGrass	140.0	185.0	244.0	116.0	150.0	153.0	12.0	0
+711	GourgeistLarge SizeGourgeistLarge Size	GhostGhost	GrassGrass	150.0	190.0	244.0	116.0	150.0	138.0	12.0	0
+711	GourgeistLarge SizeGourgeistSuper Size	GhostGhost	GrassGrass	160.0	195.0	244.0	116.0	150.0	123.0	12.0	0
+711	GourgeistSmall SizeGourgeistSmall Size	GhostGhost	GrassGrass	110.0	170.0	244.0	116.0	150.0	198.0	12.0	0
+711	GourgeistSmall SizeGourgeistAverage Size	GhostGhost	GrassGrass	120.0	175.0	244.0	116.0	150.0	183.0	12.0	0
+711	GourgeistSmall SizeGourgeistLarge Size	GhostGhost	GrassGrass	130.0	180.0	244.0	116.0	150.0	168.0	12.0	0
+711	GourgeistSmall SizeGourgeistSuper Size	GhostGhost	GrassGrass	140.0	185.0	244.0	116.0	150.0	153.0	12.0	0
+711	GourgeistAverage SizeGourgeistSmall Size	GhostGhost	GrassGrass	120.0	175.0	244.0	116.0	150.0	183.0	12.0	0
+711	GourgeistAverage SizeGourgeistAverage Size	GhostGhost	GrassGrass	130.0	180.0	244.0	116.0	150.0	168.0	12.0	0
+711	GourgeistAverage SizeGourgeistLarge Size	GhostGhost	GrassGrass	140.0	185.0	244.0	116.0	150.0	153.0	12.0	0
+711	GourgeistAverage SizeGourgeistSuper Size	GhostGhost	GrassGrass	150.0	190.0	244.0	116.0	150.0	138.0	12.0	0
+711	GourgeistSuper SizeGourgeistSmall Size	GhostGhost	GrassGrass	140.0	185.0	244.0	116.0	150.0	153.0	12.0	0
+711	GourgeistSuper SizeGourgeistAverage Size	GhostGhost	GrassGrass	150.0	190.0	244.0	116.0	150.0	138.0	12.0	0
+711	GourgeistSuper SizeGourgeistLarge Size	GhostGhost	GrassGrass	160.0	195.0	244.0	116.0	150.0	123.0	12.0	0
+711	GourgeistSuper SizeGourgeistSuper Size	GhostGhost	GrassGrass	170.0	200.0	244.0	116.0	150.0	108.0	12.0	0
+712	BergmiteBergmite	IceIce		110.0	138.0	170.0	64.0	70.0	56.0	12.0	0
+713	AvaluggAvalugg	IceIce		190.0	234.0	368.0	88.0	92.0	56.0	12.0	0
+714	NoibatNoibat	FlyingFlying	DragonDragon	80.0	60.0	70.0	90.0	80.0	110.0	12.0	0
+715	NoivernNoivern	FlyingFlying	DragonDragon	170.0	140.0	160.0	194.0	160.0	246.0	12.0	0
+716	XerneasXerneas	FairyFairy		252.0	262.0	190.0	262.0	196.0	198.0	12.0	2
+717	YveltalYveltal	DarkDark	FlyingFlying	252.0	262.0	190.0	262.0	196.0	198.0	12.0	2
+718	Zygarde50% FormeZygarde50% Forme	DragonDragon	GroundGround	216.0	200.0	242.0	162.0	190.0	190.0	12.0	2
+719	DiancieDiancie	RockRock	FairyFairy	100.0	200.0	300.0	200.0	300.0	100.0	12.0	2
+719	DiancieDiancieMega Diancie	RockRock	FairyFairy	100.0	260.0	260.0	260.0	260.0	160.0	12.0	2
+719	DiancieMega DiancieDiancie	RockRock	FairyFairy	100.0	260.0	260.0	260.0	260.0	160.0	12.0	2
+719	DiancieMega DiancieDiancieMega Diancie	RockRock	FairyFairy	100.0	320.0	220.0	320.0	220.0	220.0	12.0	2
+720	HoopaHoopa UnboundHoopaHoopa Confined	PsychicPsychic	DarkGhost	160.0	270.0	120.0	320.0	260.0	150.0	12.0	2
+720	HoopaHoopa UnboundHoopaHoopa Unbound	PsychicPsychic	DarkDark	160.0	320.0	120.0	340.0	260.0	160.0	12.0	2
+720	HoopaHoopa ConfinedHoopaHoopa Confined	PsychicPsychic	GhostGhost	160.0	220.0	120.0	300.0	260.0	140.0	12.0	2
+720	HoopaHoopa ConfinedHoopaHoopa Unbound	PsychicPsychic	GhostDark	160.0	270.0	120.0	320.0	260.0	150.0	12.0	2
+721	VolcanionVolcanion	FireFire	WaterWater	160.0	220.0	240.0	260.0	180.0	140.0	12.0	2
