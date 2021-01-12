@@ -1,6 +1,9 @@
 import pandas as pd
 
 # importing data from excek file
+# Before importing the excel file you need to install
+# openpyxl libaray
+# python3 -m pip install openpyxlf
 data_xl = pd.read_excel(r'one.xlsx', index_col=False)
 print(data_xl)
 # Read first rows
